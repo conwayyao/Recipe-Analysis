@@ -1,0 +1,463 @@
+id,recipeName,rating,totalTimeInSeconds,course,cuisine,ingredients,dish
+Thin-Mint-Ice-Cream-Pie-1374376,Thin Mint Ice Cream Pie,4,8100.0,[Desserts],,"[cookies, melted butter, vanilla bean ice cream, fudge, candy]",ice+cream
+Mint-Chocolate-Beer-Ice-Cream-1377825,Mint Chocolate Beer Ice Cream,3,11700.0,[Desserts],,"[whole milk, mint leaves, heavy cream, stout, dark chocolate, egg yolks, white sugar]",ice+cream
+Honey-Rosemary-Ice-Cream-1366181,Honey Rosemary Ice Cream,4,3000.0,[Desserts],,"[heavy whipping cream, whole milk, honey, rosemary sprigs, large egg yolks, fine sea salt, vanilla extract]",ice+cream
+Red-Velvet-Ice-Cream-1377800,Red Velvet Ice Cream,3,900.0,[Desserts],,"[coconut milk, half & half, egg yolks, sugar, vanilla extract, cocoa powder, red food coloring, heavy cream]",ice+cream
+Peanut-Butter-Chocolate-Ice-Cream-1379244,Peanut Butter Chocolate Ice Cream,4,1500.0,[Desserts],,"[heavy cream, cocoa, sugar, salt, creamy peanut butter, powdered sugar]",ice+cream
+Easy-Maple-Ice-Cream-1364338,Easy Maple Ice Cream,4,22200.0,[Desserts],,"[heavy cream, sweetened condensed milk, maple extract, pumpkin pie spice]",ice+cream
+Homemade-Ice-Cream-1313186,Homemade Ice Cream,4,2100.0,[Desserts],,"[heavy cream, milk, vanilla, sugar, salt, Reeses Peanut Butter Cups]",ice+cream
+Chocolate-ice-cream-335662,Chocolate Ice Cream,5,2700.0,[Desserts],,"[cocoa powder, brown sugar, whole milk, heavy cream, vanilla]",ice+cream
+Hedges-Rosemary-Ice-Cream-1379211,Hedges Rosemary Ice Cream,4,1080.0,[Desserts],,"[heavy cream, half & half, vanilla beans, rosemary, sugar, salt, egg yolks, ice cream]",ice+cream
+Snow-Ice-Cream_-1371117,Snow Ice Cream!,4,1500.0,[Desserts],,"[maple syrup, vanilla extract, heavy cream]",ice+cream
+Creamy-and-Crunchy-Peanut-Butter-and-Jelly-Ice-Cream-1379881,Creamy and Crunchy Peanut Butter and Jelly Ice Cream,4,1500.0,[Desserts],,"[peanut butter, granulated sugar, whole milk, sea salt, heavy cream]",ice+cream
+Apple-Crisp-Ice-Cream-1350066,Apple Crisp Ice Cream,4,2100.0,[Desserts],,"[apples, Nestle Carnation Sweetened Condensed Milk, heavy cream, vanilla extract, caramel topping]",ice+cream
+Homemade-Butter-Pecan-Ice-Cream-1377379,Homemade Butter Pecan Ice Cream,3,1200.0,[Desserts],,"[pecans, sugar, butter, half & half, brown sugar, vanilla, whipping cream, ice, rock salt]",ice+cream
+Vanilla-Ice-Cream-1211834,Vanilla Ice Cream,4,2400.0,[Desserts],,"[eggs, sugar, vanilla extract, heavy cream, milk]",ice+cream
+Maple-Hazelnut-Ice-Cream-1352045,Maple Hazelnut Ice Cream,4,3900.0,[Desserts],,"[heavy cream, 2% reduced-fat milk, large egg yolks, maple syrup, fine sea salt, roasted hazelnuts]",ice+cream
+Holiday-Cobbler-with-Cinnamon-Ice-Cream-1377607,Holiday Cobbler with Cinnamon Ice Cream,3,3900.0,[Desserts],,"[cranberries, cherries, water, granulated sugar, all-purpose flour, plums, quick rolled oats, brown sugar, baking powder, salt, cream of tartar, butter, milk, cinnamon ice cream]",ice+cream
+SNICKERS-Cake_-SNICKERS-Ice-Cream-Bars-Cake-1376298,SNICKERS Cake! SNICKERS Ice Cream Bars Cake,4,3900.0,[Desserts],,"[Snickers Ice Cream Bars, whipped cream, chocolate syrup, caramel syrup, M&M's Candy]",ice+cream
+No-Churn-Coffee-Crunch-Ice-Cream-1207837,No Churn Coffee Crunch Ice Cream,4,22500.0,[Desserts],,"[brewed coffee, sweetened condensed milk, heavy cream, mini chocolate chips]",ice+cream
+No-Churn-Oreo-Ice-Cream-1111238,No Churn Oreo Ice Cream,4,2100.0,[Desserts],,"[heavy whipping cream, sweetened condensed milk, OREO® Cookies, vanilla]",ice+cream
+Fresh-Lemon-Ice-Cream-1360515,Fresh Lemon Ice Cream,3,2700.0,[Desserts],,"[heavy cream, cold milk, sugar, fresh lemon juice, lemon extract, yellow food coloring]",ice+cream
+Mexican-Ice-Cream-1368587,Mexican Ice Cream,4,3600.0,[Desserts],,"[vanilla ice cream, frosted flaked cereal, sugar, cinnamon, honey]",ice+cream
+Butternut-Ice-Cream-1363985,Butternut Ice Cream,4,2400.0,[Desserts],,"[butternut, whole milk, turbinado, salt, cream, vanilla, cinnamon, nutmeg]",ice+cream
+Simple-Nutella-ice-cream-1292936,Simple Nutella ice cream,4,1800.0,[Desserts],,"[heavy cream, Nutella, yoghurt]",ice+cream
+Tangerine-Ice-Cream-1371935,Tangerine Ice Cream,4,3600.0,[Desserts],,"[tangerine, milk, egg yolks, sugar, water, powdered sugar, chocolate milk]",ice+cream
+Red-Wine-Ice-Cream-1367153,Red Wine Ice Cream,4,4800.0,[Desserts],,"[red wine, brown sugar, heavy whipping cream, half & half, egg yolks, vanilla beans]",ice+cream
+Easy-Espresso-Ice-Cream-486483,Easy Espresso Ice Cream,4,900.0,[Desserts],,"[brewed espresso, sugar, fine sea salt, heavy cream, vanilla, espresso powder]",ice+cream
+Nutella-Ice-Cream-626331,Nutella Ice Cream,3,2100.0,[Desserts],,"[heavy cream, milk, Nutella, sugar, salt, vanilla extract]",ice+cream
+No-Churn-Coffee-Ice-Cream-1176568,No-Churn Coffee Ice Cream,4,1200.0,[Desserts],,"[heavy cream, sweetened condensed milk, instant coffee, warm water, vanilla extract]",ice+cream
+Simple-Vanilla-Ice-Cream-1317628,Simple Vanilla Ice Cream,4,3300.0,[Desserts],,"[milk, sugar, cream, vanilla extract]",ice+cream
+Kahlua-Ice-Cream-642723,Kahlua Ice Cream,4,2100.0,[Desserts],,"[sugar, milk, heavy cream, vanilla extract, kahlua]",ice+cream
+Peach-Ice-Cream-1168224,Peach Ice Cream,3,2700.0,[Desserts],,"[peaches, half & half, sugar, whole milk, vanilla extract]",ice+cream
+Avocado-Ice-Cream-561475,Avocado Ice Cream,4,3900.0,[Desserts],,"[evaporated milk, sugar, avocado, whipping cream, lemon juice, vanilla extract]",ice+cream
+Lavender-Rose-Ice-Cream-1329480,Lavender Rose Ice Cream,4,3600.0,[Desserts],,"[heavy cream, milk, dried lavender, granulated sugar, egg yolks, salt, rose water, food colouring, candy]",ice+cream
+Strawberry-Sour-Cream-Ice-Cream-1357155,Strawberry Sour Cream Ice Cream,4,4500.0,[Desserts],,"[strawberries, sugar, vodka, sour cream, heavy cream, lemon juice]",ice+cream
+Dulce-de-Leche-Ice-Cream-1380704,Dulce de Leche Ice Cream,4,2100.0,[Desserts],,"[heavy cream, milk, dulce de leche, vanilla extract, chopped pecans, dark chocolate, ground coffee]",ice+cream
+Honey-Ice-Cream-441775,Honey Ice Cream,5,1800.0,[Desserts],,"[milk, heavy cream, honey, vanilla extract, eggs]",ice+cream
+Dark-Chocolate-Truffle-Ice-Cream-with-Toasted-Almonds-1366185,Dark Chocolate Truffle Ice Cream with Toasted Almonds,4,3000.0,[Desserts],,"[dark chocolate, whole milk, unsweetened cocoa powder, large egg yolks, sugar, heavy whipping cream, slivered almonds]",ice+cream
+Ube-Ice-Cream-629001,Ube Ice Cream,3,24300.0,[Desserts],,"[cream, milk, sugar, egg yolks, vanilla extract, food colouring]",ice+cream
+Raspberry-Ripple-Ice-Cream-604172,Raspberry Ripple Ice Cream,3,4200.0,[Desserts],,"[double cream, whole milk, vanilla pods, egg yolks, caster sugar, fresh raspberries, water]",ice+cream
+Marshmallow-Ice-Cream-1108215,Marshmallow Ice Cream,4,3000.0,[Desserts],,"[marshmallows, sugar, eggs, salt, whole milk, heavy cream, vanilla]",ice+cream
+Millionaire-Ice-Cream-894630,Millionaire Ice Cream,4,2400.0,[Desserts],,"[heavy cream, milk, sugar, fine sea salt, vanilla extract, vanilla beans, caramel sauce]",ice+cream
+Gingerbread-Ice-Cream-1380113,Gingerbread Ice Cream,4,1800.0,[Desserts],,"[full fat coconut milk, bananas, cinnamon, ginger, clove, allspice, molasses, maple syrup]",ice+cream
+Black-Licorice-Ice-Cream-895723,Black Licorice Ice Cream,4,3900.0,[Desserts],,"[black licorice sticks, whole milk, heavy cream, egg yolks, granulated sugar, vanilla extract, food colouring]",ice+cream
+Creme-Brulee-Ice-Cream-1339400,Creme Brulee Ice Cream,4,3300.0,[Desserts],,"[heavy cream, whole milk, egg yolks, sugar, vanilla, salt, raw sugar]",ice+cream
+Easy-SNICKERS-Ice-Cream-1028682,Easy SNICKERS® Ice Cream,3,600.0,[Desserts],,"[snickers, heavy whipping cream, sweetened condensed milk]",ice+cream
+Old-Fashioned-Vanilla-Ice-Cream-1037655,Old Fashioned Vanilla Ice Cream,4,900.0,[Desserts],,"[egg yolks, granulated sugar, whole milk, heavy cream, vanilla extract]",ice+cream
+Pumpkin-Gingersnap-Ice-Cream-1363316,Pumpkin Gingersnap Ice Cream,3,1800.0,[Desserts],,"[whole milk, heavy cream, dark brown sugar, egg yolks, pumpkin purée, cinnamon, nutmeg, ginger, clove, salt, gingersnap cookies, gingersnap]",ice+cream
+Nutmeg-Ice-Cream-442112,Nutmeg Ice Cream,5,2700.0,[Desserts],,"[grated nutmeg, half & half, nutmeg, sugar, egg yolks, heavy cream]",ice+cream
+Happy-Birthday-Ice-Cream-Cake-1379677,Happy Birthday Ice Cream Cake,4,2700.0,[Desserts],,"[vanilla ice cream, chocolate ice cream, cookies, fudge, frosting, heavy cream, granulated sugar, vanilla extract, light corn syrup, dark brown sugar, cocoa powder, salt, bittersweet chocolate, butter]",ice+cream
+Thai-Tea-Ice-Cream-1252970,Thai Tea Ice Cream,4,3900.0,[Desserts],,"[evaporated milk, teas, sweetened condensed milk, heavy cream, egg yolks]",ice+cream
+Strawberry-ice-cream-335737,Strawberry Ice Cream,5,2400.0,[Desserts],,"[strawberries, lemon juice, sugar, whole milk, heavy cream, vanilla]",ice+cream
+Brown-sugar-ice-cream-335862,Brown Sugar Ice Cream,5,3000.0,[Desserts],,"[whole milk, brown sugar, heavy cream, vanilla beans, vanilla]",ice+cream
+Coconut-Milk-Ice-Cream-1327796,Coconut Milk Ice Cream,4,1500.0,[Desserts],,"[coconut milk, heavy whipping cream, granulated sugar, vanilla extract, almond extract, sweetened coconut flakes]",ice+cream
+Smores-Ice-Cream-1339397,S’mores Ice Cream,4,2700.0,[Desserts],,"[heavy whipping cream, half & half, sugar, vanilla, marshmallow creme, Hershey bars, graham crackers]",ice+cream
+Toasted-Marshmallow-Sweet-Potato-Ice-Cream-1377064,Toasted Marshmallow Sweet Potato Ice Cream,4,57600.0,[Desserts],,"[sweet potatoes, marshmallows, whole milk, heavy cream, brown sugar, pure maple syrup, corn starch, ground cinnamon, ground cloves, ground ginger, ground nutmeg, vanilla extract, bourbon whiskey]",ice+cream
+Sea-Salt-_-Honey-Ice-Cream-680469,Sea Salt & Honey Ice Cream,4,21900.0,[Desserts],,"[heavy whipping cream, sweetened condensed milk, honey, sea salt]",ice+cream
+Ice-Cream-1224848,Ice Cream,4,600.0,[Desserts],,"[heavy whipping cream, gluten, vanilla extract, chocolate chips]",ice+cream
+Chocolate-Ice-Cream-1068561,Chocolate Ice Cream,4,1800.0,[Desserts],,"[whipping cream, sweetened condensed milk, chocolate syrup]",ice+cream
+Sugared-Pecan-Pumpkin-Ice-Cream-1377734,Sugared Pecan Pumpkin Ice Cream,4,6300.0,[Desserts],,"[large eggs, sugar, heavy cream, milk, solid pack pumpkin, grated nutmeg, ground cinnamon, pecan halves, egg whites, cold water, cinnamon, salt]",ice+cream
+Healthy-Banana-Bread-Ice-Cream-1376640,Healthy Banana Bread Ice Cream,4,1500.0,[Desserts],,"[bananas, cinnamon, vanilla extract, baking soda]",ice+cream
+Maple-Walnut-Ice-Cream-1342476,Maple Walnut Ice Cream,4,1200.0,[Desserts],,"[sweetened condensed milk, whipping cream, maple syrup, chopped walnuts]",ice+cream
+No-Churn-Oreo-Ice-Cream-1261603,No Churn Oreo Ice Cream,3,2100.0,[Desserts],,"[heavy whipping cream, sweetened condensed milk, OREO® Cookies, vanilla]",ice+cream
+Coconut-Ice-Cream-457422,Coconut Ice Cream,5,5100.0,[Desserts],,"[sweetened coconut flakes, half & half, cream of coconut, egg yolks, sugar, heavy cream]",ice+cream
+Mango-Coconut-Ice-Cream-1370966,Mango Coconut Ice Cream,4,3300.0,[Desserts],,"[mango, unsweetened coconut milk, light corn syrup, fresh lemon juice, vanilla, whole milk, large egg yolks, sugar]",ice+cream
+Oreo-Ice-Cream-1141130,Oreo Ice Cream,4,2700.0,[Desserts],,"[eggs, granulated sugar, whole milk, half & half, vanilla extract, salt, OREO® Cookies]",ice+cream
+Strawberry-Ice-Cream-1203201,Strawberry Ice Cream,4,14400.0,[Desserts],,"[xylitol sweetener, strawberries, vanilla extract, heavy cream]",ice+cream
+Coconut-Ice-Cream-1369796,Coconut Ice Cream,4,6300.0,[Desserts],,"[heavy cream, coconut milk, egg yolks, pure vanilla extract, unsalted butter, sugar, dark rum, macadamia nuts, granulated sugar, all-purpose flour, orange]",ice+cream
+Cinnamon-Ice-Cream-1004311,Cinnamon Ice Cream,4,3000.0,[Desserts],,"[heavy cream, whole milk, egg yolks, light corn syrup, sugar, brown sugar, vanilla, cinnamon, salt]",ice+cream
+Cotton-Candy-Ice-Cream-1335379,Cotton Candy Ice Cream,4,22200.0,[Desserts],,"[whole milk, candy, corn starch, heavy cream, condensed milk]",ice+cream
+Banana-Ice-Cream-1308606,Banana Ice Cream,3,3000.0,[Desserts],,"[bananas, lemon juice, light corn syrup, vanilla beans, heavy cream]",ice+cream
+Vanilla-Ice-Cream-Martha-Stewart_1,Vanilla Ice Cream,4,3000.0,[Desserts],,"[large egg yolks, sugar, coarse salt, skim milk, vanilla beans, pure vanilla extract, heavy cream]",ice+cream
+Oreo-Ice-Cream-550427,Oreo Ice Cream,4,2100.0,[Desserts],,"[OREO® Cookies, milk, cream, sugar, fine sea salt, vanilla]",ice+cream
+Apple-Pie-Ice-Cream-1375107,Apple Pie Ice Cream,4,,,,"[frozen apple juice concentrate, low-fat vanilla yogurt, apples, vanilla extract, ground cinnamon, bananas, ice cubes]",ice+cream
+Oreo-Vanilla-Ice-Cream-1232396,Oreo Vanilla Ice Cream,4,11700.0,[Desserts],,"[whole milk, sugar, heavy cream, vanilla extract, OREO® Cookies]",ice+cream
+Dairy-Free-Gingerbread-Ice-Cream-1367502,Dairy Free Gingerbread Ice Cream,4,1200.0,[Desserts],,"[bananas, molasses, cinnamon, clove, ginger]",ice+cream
+Creamsicle-Ice-Cream-1234333,Creamsicle Ice Cream,4,2100.0,[Desserts],,"[cream, orange juice, granulated sugar, lemon juice, vanilla]",ice+cream
+Strawberry-Ice-Cream-982847,Strawberry Ice Cream,4,7800.0,[Desserts],,"[2% reduced-fat milk, granulated sugar, heavy cream, vanilla extract, strawberries]",ice+cream
+Chocolate-Ice-Cream-1168619,Chocolate Ice Cream,4,2700.0,[Desserts],,"[heavy whipping cream, whole milk, sugar, cocoa powder, vanilla extract]",ice+cream
+Tangy-Lime-Ice-Cream-1083418,Tangy Lime Ice Cream,4,2700.0,[Desserts],,"[heavy cream, whole milk, sugar, egg yolks, lime, lime juice]",ice+cream
+Pistachio-Ice-Cream-459498,Pistachio Ice Cream,5,4800.0,[Desserts],,"[pistachios, sugar, milk, heavy cream, egg yolks, salt, almond extract]",ice+cream
+White-dream-ice-cream-335588,White Dream Ice Cream,5,3600.0,[Desserts],,"[sugar, corn starch, salt, whole milk, heavy cream, egg yolks, vanilla beans, mini marshmallows, white chocolate chips]",ice+cream
+Nutella-Ice-Cream-_No-Ice-Cream-Maker-or-Machine-Needed_-1181025,Nutella Ice Cream (No Ice Cream Maker or Machine Needed),4,1200.0,[Desserts],,"[heavy whipping cream, vanilla extract, Nutella, sweetened condensed milk]",ice+cream
+Homemade-Irish-Cream-Ice-Cream-682128,Homemade Irish Cream Ice Cream,4,2100.0,[Desserts],[Irish],"[eggs, sugar, heavy cream, Baileys Irish Cream Liqueur, chocolate syrup]",ice+cream
+A-Smarter-Ice-Cream-Treat-1368810,A Smarter Ice Cream Treat,4,1500.0,[Desserts],,"[butter, fudge, caramel bits]",ice+cream
+Espresso-Ice-Cream-BB,Espresso Ice Cream,4,32400.0,[Desserts],,"[whole milk, granulated sugar, coffee beans, salt, heavy cream, large egg yolks, vanilla extract, ground espresso]",ice+cream
+Avocado-Ice-Cream-1246070,Avocado Ice Cream,4,14400.0,[Desserts],,"[avocado, granulated sugar, plain greek yogurt, heavy cream, fresh lime juice, kosher salt, bittersweet chocolate]",ice+cream
+Almond-Nougat-Ice-Cream-1313374,Almond Nougat Ice Cream,4,1200.0,[Desserts],,"[honey, sugar, water, large egg whites, heavy cream, almond extract, sliced almonds]",ice+cream
+Lavender-Rose-Ice-Cream-634067,Lavender Rose Ice Cream,3,3600.0,[Desserts],,"[heavy cream, milk, dried lavender, granulated sugar, egg yolks, salt, rose water, food colouring, candy]",ice+cream
+Matcha-Ice-Cream-1318096,Matcha Ice Cream,4,1200.0,[Desserts],,"[half & half, heavy cream, sugar, salt, matcha]",ice+cream
+Salted-Caramel-Ice-Cream-633439,Salted Caramel Ice Cream,3,1500.0,[Desserts],,"[light brown sugar, butter, heavy cream, milk, vanilla extract, fine sea salt]",ice+cream
+Rum-Raisin-Ice-Cream-440916,Rum Raisin Ice Cream,5,3000.0,[Desserts],,"[raisins, dark rum, sugar, egg yolks, milk, heavy cream, vanilla extract]",ice+cream
+Maple-walnut-ice-cream-345168,Maple Walnut Ice Cream,5,2700.0,[Desserts],,"[whole milk, sugar, heavy cream, large egg yolks, maple syrup, coarse salt, vanilla extract, walnuts]",ice+cream
+Buttermilk-ice-cream-305528,Buttermilk Ice Cream,5,2700.0,[Desserts],,"[heavy cream, sugar, large egg yolks, buttermilk, vanilla, salt]",ice+cream
+Strawberry-Ice-Cream-1070712,Strawberry Ice Cream,4,10800.0,[Desserts],,"[heavy cream, milk, sugar, eggs, strawberries, salt]",ice+cream
+Snickerdoodle-Ice-Cream-471830,Snickerdoodle Ice Cream,4,2100.0,[Desserts],,"[granulated white sugar, brown sugar, ground cinnamon, ground nutmeg, heavy whipping cream, cream, vanilla extract]",ice+cream
+Honey-Ice-Cream-611203,Honey Ice Cream,3,3900.0,[Desserts],,"[sugar, heavy cream, milk, large egg yolks, honey]",ice+cream
+Dairy-Free-No-Churn-Pumpkin-Spice-Ice-Cream-1349258,Dairy-Free No Churn Pumpkin Spice Ice Cream,4,600.0,[Desserts],,"[coconut cream, pitted date, pumpkin purée, pumpkin pie spice, vanilla extract, salt]",ice+cream
+Fried-Ice-Cream-972918,Fried Ice Cream,4,3900.0,[Desserts],,"[vanilla ice cream, corn flakes, cookie crumbs, sugar, eggs, canola oil]",ice+cream
+Pumpkin-Ice-Cream-1360993,Pumpkin Ice Cream,4,11520.0,[Desserts],,"[evaporated milk, heavy cream, sugar, pumpkin purée, pumpkin pie spice]",ice+cream
+Lemon-Ice-Cream-1296986,Lemon Ice Cream,4,3600.0,[Desserts],,"[milk, sugar, egg yolks, lemon, salt, heavy cream, lemon juice]",ice+cream
+Watermelon-Ice-Cream-1167803,Watermelon Ice Cream,4,3000.0,[Desserts],,"[watermelon, juice, heavy cream, sugar, egg yolks]",ice+cream
+Homemade-Vanilla-Ice-CreamYum-1362532,Homemade Vanilla Ice CreamYum,4,1200.0,[Desserts],,"[heavy cream, whole milk, egg yolks, maple syrup, vanilla, arrowroot powder]",ice+cream
+Easy-Mint-Chocolate-Chip-Ice-Cream-1367671,Easy Mint Chocolate Chip Ice Cream,4,3900.0,[Desserts],,"[milk, heavy cream, sugar, salt, miniature semisweet chocolate chips, color food green, peppermint extract, vanilla extract]",ice+cream
+Homemade-Vanilla-Ice-Cream-1259266,Homemade Vanilla Ice Cream,4,17400.0,[Desserts],,"[whipping cream, milk, large eggs, granulated sugar, pure vanilla extract]",ice+cream
+Lemonade-Ice-Cream-1227215,Lemonade Ice Cream,4,3300.0,[Desserts],,"[whole milk, egg yolks, granulated sugar, lemon extract, lemon, fresh lemon juice, frozen lemonade concentrate]",ice+cream
+OREO-Ice-Cream-Cake-1239249,OREO Ice Cream Cake,4,1200.0,[Desserts],,"[OREO® Cookies, melted butter, vanilla ice cream, fudge topping, cool whip]",ice+cream
+Honeysuckle-Ice-Cream-1074970,Honeysuckle Ice Cream,3,2100.0,[Desserts],,"[heavy cream, whole milk, sugar, vanilla beans]",ice+cream
+Chocolate-Ice-Cream-470179,Chocolate Ice Cream,4,1800.0,[Desserts],,"[heavy cream, Dutch-processed cocoa powder, sugar, salt, unsweetened chocolate, whole milk, vanilla extract]",ice+cream
+Fried-Ice-Cream-482301,Fried Ice Cream,4,18000.0,[Desserts],,"[vanilla ice cream, cornflakes, shredded coconut, ground cinnamon, eggs, granulated sugar, milk, peanut oil]",ice+cream
+Hibiscus-Ice-Cream-1065460,Hibiscus Ice Cream,4,3300.0,[Desserts],,"[heavy cream, milk, sugar, salt, teas, hibiscus tea bags, rum]",ice+cream
+Cool-Mint-Ice-Cream-1376667,Cool Mint Ice Cream,3,3300.0,[Desserts],,"[coconut milk, glycerin, alcohol, stevia, salt, fresh mint, vanilla, coconut flakes]",ice+cream
+Classic-Vanilla-Ice-Cream-1181430,Classic Vanilla Ice Cream,3,8100.0,[Desserts],,"[sweetened condensed milk, evaporated milk, sugar, vanilla, whole milk]",ice+cream
+Vanilla-Ice-Cream-1288687,Vanilla Ice Cream,4,1200.0,[Desserts],,"[heavy cream, sweetened condensed milk, pure vanilla extract]",ice+cream
+Mango-Ice-Cream-488293,Mango Ice Cream,4,1200.0,[Desserts],,"[mango, sugar, lemon, heavy whipping cream, milk]",ice+cream
+Mocha-Ice-Cream-1278185,Mocha Ice Cream,3,3600.0,[Desserts],,"[unsweetened chocolate, sweetened condensed milk, brewed coffee, heavy cream, vanilla extract]",ice+cream
+Fried-Ice-Cream-Allrecipes,Fried Ice Cream,5,14400.0,[Desserts],,"[vanilla ice cream, cornflake cereal, ground cinnamon, egg whites, oil]",ice+cream
+3-Ingredient-Creamy-Coconut-Ice-Cream-1035422,3-Ingredient Creamy Coconut Ice Cream,4,1800.0,[Desserts],,"[whipping cream, cream of coconut, sweetened coconut flakes]",ice+cream
+Caramel-Kisses-No-Churn-Ice-Cream-1351303,Caramel Kisses No-Churn Ice Cream,4,2400.0,[Desserts],,"[heavy whipping cream, condensed milk, sugar, vanilla, caramel topping, hot fudge topping, caramels]",ice+cream
+The-glorious-combination-of-Ice-cream-with-red-wine-1363982,The glorious combination of Ice cream with red wine,4,900.0,[Desserts],,"[ice cream, port wine, sprinkles]",ice+cream
+Almond-Ice-Cream-1284119,Almond Ice Cream,4,4200.0,[Desserts],,"[heavy cream, milk, sugar, large eggs, almond extract]",ice+cream
+Tiramisu-Pudding-Ice-Cream-1339396,Tiramisu Pudding Ice Cream,3,12600.0,[Desserts],,"[vanilla wafers, Maxwell House Coffee, heavy cream, milk, chocolate, cool whip]",ice+cream
+Stout-Ice-Cream-442513,Stout Ice Cream,5,3300.0,[Desserts],,"[sugar, kosher salt, egg yolks, heavy cream, stout, vanilla extract]",ice+cream
+Blueberries-and-Cream-Ice-Cream-622191,Blueberries and Cream Ice Cream,3,1200.0,[Desserts],,"[heavy cream, milk, sugar, vanilla extract, fine sea salt, frozen blueberries]",ice+cream
+Praline-Ice-Cream-1016253,Praline Ice Cream,4,3000.0,[Desserts],,"[sugar, chopped almonds, butter, cream, milk, essence, lemon]",ice+cream
+Peppermint-Ice-Cream-Simply-Recipes-43070,Peppermint Ice Cream,5,3600.0,[Desserts],,"[heavy cream, whole milk, large egg yolks, sugar, salt, peppermint extract, candy canes]",ice+cream
+Creamy-3-ingredient_-No-Churn-Chocolate-Ice-Cream-1226289,"Creamy 3-ingredient, No Churn Chocolate Ice Cream",4,18000.0,[Desserts],,"[heavy whipping cream, sweetened condensed milk, chocolate syrup, sea salt]",ice+cream
+Philadelphia-Style-Vanilla-Ice-Cream-458921,Philadelphia-Style Vanilla Ice Cream,5,2100.0,[Desserts],,"[heavy cream, milk, sugar, vanilla extract]",ice+cream
+Creme-Fraiche-Ice-Cream-1021382,Crème Fraîche Ice Cream,5,3000.0,[Desserts],,"[whole milk, sugar, salt, large egg yolks, crème fraîche]",ice+cream
+Classic-Fried-Ice-Cream-1229643,Classic Fried Ice Cream,4,3600.0,[Desserts],,"[vanilla ice cream, corn flakes, eggs, vanilla extract, vegetable oil, whipped cream, honey, raspberries, cherries]",ice+cream
+Vanilla-Caramel-Swirl-Ice-Cream----_ComfortsFromHome-1372640,Vanilla Caramel Swirl Ice Cream -- #ComfortsFromHome,4,600.0,[Desserts],,"[sweetened condensed milk, heavy whipping cream, pure vanilla extract, caramel syrup]",ice+cream
+Sweet-Potato-Cream-Cheese-Ice-Cream-1352849,Sweet Potato Cream Cheese Ice Cream,4,10200.0,[Desserts],,"[sweet potatoes, whole milk, cream cheese, kosher salt, cinnamon, nutmeg, ground cloves, vanilla extract, heavy cream, corn starch, brown sugar, molasses]",ice+cream
+Fresh-Peach-Ice-Cream-1352686,Fresh Peach Ice Cream,3,2700.0,[Desserts],,"[heavy cream, sweetened condensed milk, vanilla, fruit]",ice+cream
+Pistachio-Ice-Cream-1375871,Pistachio Ice Cream,3,4800.0,[Desserts],,"[unsalted shelled pistachio, sugar, milk, almond extract, large egg yolks, whipping cream]",ice+cream
+Easiest-Vanilla-Ice-Cream-1267968,Easiest Vanilla Ice Cream,3,3300.0,[Desserts],,"[heavy cream, half & half, whole milk, vanilla beans, pure vanilla extract, granulated sugar, salt]",ice+cream
+Coffee-Ice-Cream-1067151,Coffee Ice Cream,4,3000.0,[Desserts],,"[sugar, whole milk, roast, Dutch-processed cocoa powder, large eggs, heavy cream]",ice+cream
+Raspberry-Ice-Cream-1255475,Raspberry Ice Cream,4,14400.0,[Desserts],,"[raspberries, sugar, egg yolks, salt, heavy cream]",ice+cream
+Easy-Ice-Cream-Martha-Stewart,Easy Ice Cream,3,3000.0,[Desserts],,"[large egg yolks, sugar, coarse salt, skim milk, flavoring, heavy cream]",ice+cream
+Coffee-Ice-Cream-Simply-Recipes-43003,Coffee Ice Cream,5,6300.0,[Desserts],,"[whole milk, sugar, coffee beans, salt, heavy cream, large egg yolks, vanilla extract, finely ground coffee]",ice+cream
+No-Churn-Nutella-Ice-Cream-1224731,No-Churn Nutella Ice Cream,4,21600.0,[Desserts],,"[sweetened condensed milk, pure vanilla extract, Nutella, heavy cream]",ice+cream
+Brownie-Batter-Ice-Cream-1082797,Brownie Batter Ice Cream,4,1200.0,[Desserts],,"[2% reduced-fat milk, heavy cream, sugar, brownie mix, vanilla]",ice+cream
+Cantaloupe-Ice-Cream-1232635,Cantaloupe Ice Cream,4,11700.0,[Desserts],,"[egg yolks, milk, sugar, cantaloupe, lemon juice, whipping cream]",ice+cream
+Espresso-Chocolate-Chip-Ice-Cream-621925,Espresso Chocolate Chip Ice Cream,3,300.0,[Desserts],,"[heavy cream, sweetened condensed milk, espresso powder, mini chocolate chips]",ice+cream
+Nutmeg-ice-cream-368333,Nutmeg Ice Cream,4,3600.0,[Desserts],,"[half & half, nutmeg, granulated sugar, egg yolks, heavy cream, grated nutmeg, vanilla extract]",ice+cream
+Limoncello-Lemon-Ice-Cream-1071229,Limoncello Lemon Ice Cream,4,1500.0,[Desserts],,"[vanilla ice cream, lemon curd, liquor, wafer cookies]",ice+cream
+The-Best-Vanilla-Ice-Cream-1054021,The Best Vanilla Ice Cream,4,65400.0,[Desserts],,"[egg yolks, whole milk, heavy cream, sugar, vanilla extract]",ice+cream
+Salted-Caramel-Ice-Cream-767961,Salted Caramel Ice Cream,3,3600.0,[Desserts],,"[sugar, fresh lemon juice, heavy cream, egg yolks, kosher salt, whole milk, vanilla extract]",ice+cream
+Holiday-Peppermint-Ice-Cream-Cake-Roll-1377558,Holiday Peppermint Ice Cream Cake Roll,4,3000.0,[Desserts],,"[flour, baking powder, egg yolks, vanilla, sugar, egg whites, vanilla ice cream, peppermint, mint chocolate chip ice cream, candy canes]",ice+cream
+Eggless-Nutella-Ice-Cream-622082,Eggless Nutella Ice Cream,3,29400.0,[Desserts],,"[Nutella, sugar, heavy cream, pistachios]",ice+cream
+Rocky-Road-Ice-Cream-1270806,Rocky Road Ice Cream,4,3300.0,[Desserts],,"[sugar, unsweetened cocoa powder, fine sea salt, heavy cream, milk, vanilla extract, almond extract, semi-sweet chocolate morsels, sliced almonds, mini marshmallows]",ice+cream
+Two-Ingredient-Ice-Cream-with-just-a-Blender-1300631,Two Ingredient Ice Cream with just a Blender,4,1200.0,[Desserts],,"[heavy cream, condensed milk, vanilla extract]",ice+cream
+Peach-Ice-Cream-629940,Peach Ice Cream,3,3300.0,[Desserts],,"[peaches, sugar, citric acid, heavy cream, egg yolks, vanilla extract]",ice+cream
+Banana-Nutella-Ice-Cream-1362209,Banana Nutella Ice Cream,4,14400.0,[Desserts],,"[bananas, milk, skim milk powder, granulated sugar, heavy cream, vanilla extract, Nutella, Nilla Wafers]",ice+cream
+Rose-Ice-Cream-626885,Rose Ice Cream,4,3000.0,[Desserts],,"[heavy cream, vanilla extract, honey, red food coloring, rosé wine]",ice+cream
+Buttery-popcorn-ice-cream-308154,Buttery Popcorn Ice Cream,5,4800.0,[Desserts],,"[heavy cream, 2% reduced-fat milk, popcorn, egg yolks, sugar, table salt, pure vanilla extract, jack, caramel sauce]",ice+cream
+Homemade-Vanilla-Ice-Cream-1198462,Homemade Vanilla Ice Cream,4,3300.0,[Desserts],,"[heavy whipping cream, whole milk, large egg yolks, sugar, vanilla]",ice+cream
+Lemon-Poppyseed-Ice-Cream-497977,Lemon Poppyseed Ice Cream,4,3000.0,[Desserts],,"[whole milk, heavy cream, buttermilk, granulated sugar, large egg yolks, lemon curd, poppyseeds]",ice+cream
+Fresh-Lemon-Ice-Cream-1056938,Fresh Lemon Ice Cream,3,2700.0,[Desserts],,"[heavy cream, cold milk, sugar, fresh lemon juice, lemon extract, yellow food coloring]",ice+cream
+Apple-Butter-Gingersnap-Ice-Cream-1357104,Apple Butter Gingersnap Ice Cream,4,1800.0,[Desserts],,"[half & half, heavy cream, egg yolks, sugar, vanilla bean paste, gingersnap cookies, crystallized ginger, apple butter]",ice+cream
+Fried-Ice-Cream-1083517,Fried Ice Cream,4,2700.0,[Desserts],,"[vanilla ice cream, Marie biscuits, eggs, cinnamon, oil, whipped cream]",ice+cream
+Easy-Vanilla-Ice-Cream-1358910,Easy Vanilla Ice Cream,4,3000.0,[Desserts],,"[caster sugar, whole milk, vanilla bean paste, double cream, egg yolks]",ice+cream
+Matcha-ice-cream-368342,Matcha Ice Cream,4,4800.0,[Desserts],,"[milk, heavy cream, matcha green tea powder, large egg yolks, granulated sugar]",ice+cream
+No-Churn-Pumpkin-Ice-Cream-1343904,No Churn Pumpkin Ice Cream,3,1800.0,[Desserts],,"[heavy whipping cream, sweetened condensed milk, pumpkin purée, pumpkin pie spice, ground cinnamon, vanilla extract]",ice+cream
+Andes-Mint-Chip-Ice-Cream-1192370,Andes Mint Chip Ice Cream,4,1800.0,[Desserts],,"[heavy cream, whole milk, sugar, vanilla extract, peppermint extract, color food green, crème de menthe]",ice+cream
+3-Ingredient-Strawberry-Ice-Cream-1071051,3 Ingredient Strawberry Ice Cream,4,1800.0,[Desserts],,"[strawberries, heavy cream, lemon juice]",ice+cream
+Strawberry-Swirl-Ice-Cream-Naturally-Ella-296425,Strawberry Swirl Ice Cream,4,3300.0,[Desserts],,"[heavy cream, 2% reduced-fat milk, vanilla beans, large egg yolks, sugar, strawberries]",ice+cream
+Homemade-Chocolate-Ice-Cream-1246981,Homemade Chocolate Ice Cream,3,3300.0,[Desserts],,"[unsweetened chocolate, milk, large eggs, sugar, whipping cream, vanilla extract, salt]",ice+cream
+Six-Threes-Ice-Cream-486054,Six Threes Ice Cream,4,1800.0,[Desserts],,"[bananas, orange, lemon, sugar, fine sea salt, vanilla extract, vanilla beans, heavy cream, milk]",ice+cream
+Brown-sugar-ice-cream-351014,Brown Sugar Ice Cream,4,2100.0,[Desserts],,"[egg yolks, dark brown sugar, heavy cream, 2% reduced-fat milk, pure vanilla extract]",ice+cream
+Burnt-orange-ice-cream-345085,Burnt Orange Ice Cream,5,3900.0,[Desserts],,"[heavy cream, whole milk, grated orange, sugar, fresh orange juice, large egg yolks, salt, vanilla extract]",ice+cream
+FRIED-PINEAPPLE-WITH-ICE-CREAM-1375653,FRIED PINEAPPLE WITH ICE CREAM,4,660.0,[Desserts],,"[pineapple, vanilla ice cream, raisins, butter, amaretto liqueur, honey, cinnamon]",ice+cream
+Butterfinger-Ice-Cream-1281178,Butterfinger Ice Cream,4,3000.0,[Desserts],,"[heavy cream, sweetened condensed milk, whole milk, granulated sugar, Butterfinger Candy Bars]",ice+cream
+Cookies-and-Cream-Ice-Cream-753841,Cookies and Cream Ice Cream,4,3900.0,[Desserts],,"[whole milk, heavy whipping cream, egg yolks, sugar, vanilla extract, OREO® Cookies]",ice+cream
+Decadent-Sea-Salt-and-Caramel-Ice-Cream-1362592,Decadent Sea Salt and Caramel Ice Cream,3,5100.0,[Desserts],,"[heavy cream, sugar, lemon juice, butter, sea salt, egg yolks, vanilla extract]",ice+cream
+Pumpkin-Beer-Ice-Cream-1237921,Pumpkin Beer Ice Cream,4,3300.0,[Desserts],,"[whole milk, heavy cream, brown sugar, egg yolks, sugar, salt, cinnamon, nutmeg, pumpkin purée, beer, vanilla]",ice+cream
+Apple-Crisp-Ice-Cream-579739,Apple Crisp Ice Cream,4,2100.0,[Desserts],,"[apples, heavy cream, milk, sugar, vanilla extract, vanilla beans, fine sea salt]",ice+cream
+Blueberry-Maple-Ice-Cream-1300414,Blueberry-Maple Ice Cream,4,3000.0,[Desserts],,"[heavy cream, half & half, pure maple syrup, eggs, kosher salt, grated nutmeg, fresh blueberries]",ice+cream
+Oreo-Cheesecake-Ice-Cream-1329996,Oreo Cheesecake Ice Cream,4,3900.0,[Desserts],,"[sugar, cream cheese, eggs, vanilla, milk, heavy cream, OREO® Cookies]",ice+cream
+Mochi-Ice-Cream-607882,Mochi Ice Cream,3,1980.0,[Desserts],,"[shiratamako, water, sugar, potato starch, ice cream, cupcakes, cookie dough, cookies]",ice+cream
+Lime-Ice-Cream-473648,Lime Ice Cream,5,3300.0,[Desserts],,"[whole milk, heavy cream, egg yolks, sugar, lime, fresh lime juice]",ice+cream
+The-Best-Vanilla-Ice-Cream-460420,The Best Vanilla Ice Cream,3,3900.0,[Desserts],,"[milk, heavy cream, sugar, vanilla beans, egg yolks, kosher salt]",ice+cream
+Amaretto-Ice-Cream-1026454,Amaretto Ice Cream,4,1800.0,[Desserts],,"[heavy whipping cream, milk, egg yolks, granulated sugar, amaretto, salt, almond extract]",ice+cream
+Brownie-Ice-Cream-513417,Brownie Ice Cream,5,2700.0,[Desserts],[American],"[bittersweet chocolate, unsalted butter, light brown sugar, vanilla extract, large eggs, all-purpose flour, unsweetened cocoa powder, pecans, vanilla ice cream]",ice+cream
+Chocolate-Mint-Chip-Ice-Cream-1068557,Chocolate Mint Chip Ice Cream,4,1800.0,[Desserts],,"[whipping cream, sweetened condensed milk, chocolate syrup, Andes Creme de Menthe Thins]",ice+cream
+Apple-Pie-Ice-Cream-1374444,Apple Pie Ice Cream,4,,,,"[frozen apple juice concentrate, low-fat vanilla yogurt, apples, vanilla extract, ground cinnamon, bananas, ice cubes]",ice+cream
+Peach-Ice-Cream-927430,Peach Ice Cream,4,3000.0,[Desserts],,"[peaches, water, sugar, sour cream, heavy cream, vanilla extract, lemon juice]",ice+cream
+Cookies-and-Cream-Ice-Cream-1022982,Cookies and Cream Ice Cream,4,3600.0,[Desserts],,"[milk, egg yolks, sugar, salt, vanilla, cream, OREO® Cookies]",ice+cream
+Coffee-Ice-Cream-470380,Coffee Ice Cream,4,4200.0,[Desserts],,"[whole milk, heavy cream, sugar, large egg yolks, instant espresso powder, vanilla extract]",ice+cream
+Cinnamon-Ice-Cream-932197,Cinnamon Ice Cream,4,4200.0,[Desserts],,"[heavy cream, whole milk, cinnamon sticks, sugar, salt]",ice+cream
+Kiwi-Lime-Ice-Cream-1165428,Kiwi Lime Ice Cream,4,3900.0,[Desserts],,"[heavy cream, whole milk, sugar, lime, large egg yolks, vanilla extract, salt, kiwi]",ice+cream
+Cake-Batter-Ice-Cream-475892,Cake Batter Ice Cream,4,3000.0,[Desserts],,"[heavy cream, yellow cake mix, sugar, salt, egg yolks, vanilla extract, whole milk]",ice+cream
+Cinnamon-ice-cream-368345,Cinnamon Ice Cream,4,3600.0,[Desserts],,"[milk, heavy cream, granulated sugar, ground cinnamon, egg yolks, vanilla extract]",ice+cream
+Vanilla-ice-cream-344975,Vanilla Ice Cream,4,3000.0,[Desserts],,"[milk, salt, sugar, vanilla beans, egg yolks, heavy cream, vanilla extract]",ice+cream
+Oreo-Ice-Cream-1204261,Oreo Ice Cream,4,1500.0,[Desserts],,"[whole milk, granulated sugar, heavy whipping cream, vanilla extract, OREO® Cookies]",ice+cream
+Green-Tea-Ice-Cream-Recipe-_Matcha-Ice-Cream_-1199103,Green Tea Ice Cream Recipe (Matcha Ice Cream),4,1800.0,[Desserts],,"[half & half, green tea powder, sugar, salt, ice cream]",ice+cream
+Blueberry-Cardamom-Ice-Cream-1031351,Blueberry Cardamom Ice Cream,4,1500.0,[Desserts],,"[blueberries, water, ground cardamom, sugar, heavy cream, milk]",ice+cream
+Chocolate-Chip-Mint-Ice-Cream-1255380,Chocolate Chip Mint Ice Cream,4,1500.0,[Desserts],,"[whipping cream, whole milk, sugar, mint extract, mini chocolate chips, color food green]",ice+cream
+Fried-Ice-Cream-1253445,Fried Ice Cream,4,3900.0,[Desserts],,"[vanilla ice cream, corn flakes, flaked coconut, cinnamon, eggs, milk, oil]",ice+cream
+No-Churn-Coconut-Ice-Cream-1017645,No Churn Coconut Ice Cream,4,2100.0,[Desserts],,"[heavy whipping cream, cream of coconut]",ice+cream
+Plum-Ice-Cream-1065506,Plum Ice Cream,4,3600.0,[Desserts],,"[plums, water, sweetened condensed milk, whole milk, salt, vanilla extract, lemon juice]",ice+cream
+Milky-Tea-Ice-Cream-965223,Milky Tea Ice Cream,4,1080.0,[Desserts],,"[heavy cream, whole milk, tea bags, granulated sugar, vanilla extract, lavender, almonds]",ice+cream
+4-Ingredient-Pineapple-Ice-Cream-1233174,4-Ingredient Pineapple Ice Cream,4,2100.0,[Desserts],,"[pineapple juice, sugar, vanilla, heavy cream]",ice+cream
+Sour-Cream-Ice-Cream-498793,Sour Cream Ice Cream,3,1800.0,[Desserts],,"[whole milk, heavy cream, granulated sugar, vanilla bean paste, large egg yolks, sour cream]",ice+cream
+Jasmine-Ice-Cream-623416,Jasmine Ice Cream,3,3900.0,[Desserts],,"[cream, sugar, jasmine flowers, egg yolks, milk, vanilla]",ice+cream
+Marshmallow-Ice-Cream-1065458,Marshmallow Ice Cream,4,2100.0,[Desserts],,"[marshmallows, milk, heavy cream, salt, flavoring, vanilla extract, vodka]",ice+cream
+Cognac-ice-cream-334227,Cognac Ice Cream,5,3600.0,[Desserts],,"[milk, corn starch, cream cheese, sea salt, heavy whipping cream, sugar, light corn syrup, cognac]",ice+cream
+Salted-Caramel-Ice-Cream-1214177,Salted Caramel Ice Cream,4,4800.0,[Desserts],,"[heavy cream, sugar, 2% reduced-fat milk, kosher salt, egg yolks]",ice+cream
+Five-Minute-Ice-Cream-Allrecipes,Five Minute Ice Cream,5,300.0,[Desserts],,"[strawberries, sugar, heavy cream]",ice+cream
+The-Best-Apple-Pie-1367973,The Best Apple Pie,4,3900.0,[Desserts],,"[refrigerated piecrusts, sugar, flour, apple pie spice, granny smith apples, butter, eggs, pie crust, vanilla bean ice cream]",ice+cream
+No-Churn-Mint-Chocolate-Chip-Ice-Cream-1097208,No Churn Mint Chocolate Chip Ice Cream,4,600.0,[Desserts],,"[whipping cream, sweetened condensed milk, peppermint extract, color food green, chocolate]",ice+cream
+Best-Homemade-Vanilla-Bean-Ice-Cream-1227974,Best Homemade Vanilla Bean Ice Cream,4,30600.0,[Desserts],,"[whole milk, granulated sugar, heavy cream, salt, vanilla beans, large egg yolks, vanilla extract]",ice+cream
+Cinnamon-Ice-Cream-1068819,Cinnamon Ice Cream,4,28800.0,[Desserts],,"[ground cinnamon, low-fat milk, heavy cream, vanilla pods, egg yolks, granulated sugar]",ice+cream
+No-Churn-Cookie-Monster-Ice-Cream-1258412,No Churn Cookie Monster Ice Cream,3,3000.0,[Desserts],,"[heavy cream, sweetened condensed milk, vanilla, food colouring, chocolate sandwich cookies, chocolate chip cookies]",ice+cream
+Coconut-Ice-Cream-1219112,Coconut Ice Cream,4,3300.0,[Desserts],,"[sweetened coconut flakes, heavy cream, coconut milk, whole milk, salt, egg yolks, sugar, vanilla extract, coconut extract]",ice+cream
+No-Fuss-Chocolate-Ice-Cream-1181428,No-Fuss Chocolate Ice Cream,3,8100.0,[Desserts],,"[chocolate bars, condensed milk, heavy cream]",ice+cream
+Speedy-Ice-Cream-TasteOfHome,Speedy Ice Cream,4,600.0,[Desserts],,"[cream, sugar, vanilla extract, ice cubes, salt]",ice+cream
+Churro-Fried-Ice-Cream-593063,Churro Fried Ice Cream,4,19800.0,[Desserts],,"[vanilla bean ice cream, cookie crumbs, crumbs, eggs, granulated sugar, ground cinnamon, sunflower oil]",ice+cream
+Cinnamon-Ice-Cream-1347568,Cinnamon Ice Cream,4,1800.0,[Desserts],,"[coconut milk, unsweetened vanilla almond milk, pure maple syrup, cinnamon, salt]",ice+cream
+Red-Velvet-Ice-Cream-with-Marshmallow-Swirl-1000057,Red Velvet Ice Cream with Marshmallow Swirl,4,1200.0,[Desserts],,"[cream cheese, milk, heavy cream, sugar, buttermilk, red food coloring, cocoa powder, salt, ice cream]",ice+cream
+French-Vanilla-Bean-Ice-Cream-608644,French Vanilla Bean Ice Cream,3,86400.0,[Desserts],,"[whole milk, heavy cream, granulated sugar, salt, vanilla beans, egg yolks, vanilla extract]",ice+cream
+Caramel-Ice-Cream-1070502,Caramel Ice Cream,4,1500.0,[Desserts],,"[caramel sauce, egg yolks, salt, whole milk, whipping cream]",ice+cream
+Chocolate-Ice-Cream-Epicurious-203699,Chocolate Ice Cream,5,4200.0,[Desserts],,"[dark chocolate, whole milk, unsweetened cocoa powder, large egg yolks, sugar, heavy whipping cream]",ice+cream
+Milky-way-ice-cream-351341,Milky Way Ice Cream,5,2700.0,[Desserts],,"[Milky Way Candy Bars, sweetened condensed milk, whole milk, half & half, chocolate syrup]",ice+cream
+No-Churn-Chocolate-Chip-Ice-Cream-1212520,No Churn Chocolate Chip Ice Cream,4,600.0,[Desserts],,"[heavy whipping cream, condensed milk, pure vanilla extract, chocolate]",ice+cream
+Lychee-Ice-Cream-1242213,Lychee Ice Cream,4,24600.0,[Desserts],,"[lychees, whole milk, sugar, heavy cream, milk]",ice+cream
+Cake-Batter-Ice-Cream-1145855,Cake Batter Ice Cream,3,1800.0,[Desserts],,"[heavy cream, milk, sugar, cake mix, vanilla extract, tumeric]",ice+cream
+No-Churn-Ice-Cream-637102,No Churn Ice Cream,3,300.0,[Desserts],,"[heavy whipping cream, sweetened condensed milk, vanilla extract]",ice+cream
+Eggnog-Ice-Cream-Simply-Recipes-42729,Eggnog Ice Cream,5,3900.0,[Desserts],,"[heavy whipping cream, milk, clove, grated nutmeg, cinnamon, salt, granulated sugar, egg yolks, vanilla extract, rum]",ice+cream
+Raspberry-Ice-Cream-900447,Raspberry Ice Cream,4,3900.0,[Desserts],,"[half & half, sugar, heavy cream, large egg yolks, raspberry puree, lemon juice]",ice+cream
+No-Churn-Chocolate-Macadamia-Nut-Ice-Cream-1359875,No Churn Chocolate Macadamia Nut Ice Cream,4,900.0,[Desserts],,"[bittersweet chocolate chips, sweetened condensed milk, pure vanilla extract, heavy cream, macadamia nuts]",ice+cream
+Chocolate-Ice-Cream-577550,Chocolate Ice Cream,3,3000.0,[Desserts],,"[dark chocolate, whole milk, unsweetened cocoa powder, large egg yolks, sugar, heavy whipping cream]",ice+cream
+Maple-Ice-Cream-1317524,Maple Ice Cream,4,1380.0,[Desserts],,"[egg yolks, large eggs, maple syrup, heavy cream, whole milk, vanilla extract]",ice+cream
+Homemade-Nutella-Ice-Cream-1025134,Homemade Nutella Ice Cream,3,1800.0,[Desserts],,"[eggs, sugar, heavy cream, 2% reduced-fat milk, Nutella, hazelnuts]",ice+cream
+Vanilla-Ice-Cream-964796,Vanilla Ice Cream,3,3300.0,[Desserts],,"[milk, sugar, corn flour, cream, vanilla essence]",ice+cream
+Peanut-Butter-Lovers-Ice-Cream-592640,Peanut Butter Lover’s Ice Cream,4,34200.0,[Desserts],,"[whole milk, granulated sugar, creamy peanut butter, heavy cream, salt, egg yolks, vanilla extract]",ice+cream
+Blackberry-ice-cream-345829,Blackberry Ice Cream,5,450.0,[Desserts],,"[whole milk, sugar, heavy whipping cream, egg yolks, vanilla extract, blackberries, fresh lemon juice]",ice+cream
+Oreo-Ice-Cream-Cake-471483,Oreo Ice Cream Cake,5,1200.0,[Desserts],,"[cookies and cream ice cream, OREO® Cookies, caramel ice cream topping]",ice+cream
+Fresh-strawberry-ice-cream-345842,Fresh Strawberry Ice Cream,5,3300.0,[Desserts],,"[strawberries, sugar, lemon juice, heavy cream, salt, vanilla pods, egg yolks]",ice+cream
+Saffron-Ice-Cream-1041096,Saffron Ice Cream,4,3900.0,[Desserts],,"[saffron threads, whole milk, vanilla sugar, salt, whipping cream, vanilla]",ice+cream
+Salted-Caramel-Ice-Cream-1100575,Salted Caramel Ice Cream,4,2400.0,[Desserts],,"[caster, water, heavy cream, whole milk, sea salt flakes, large egg yolks, corn flour, vanilla bean paste]",ice+cream
+Beet-Ice-Cream-895346,Beet Ice Cream,4,5400.0,[Desserts],,"[beets, heavy cream, whole milk, granulated sugar, salt, nonfat milk powder, egg yolks]",ice+cream
+Butter-Pecan-Ice-Cream-With-Cuisinart-984537,Butter Pecan Ice Cream With Cuisinart,4,2100.0,[Desserts],,"[unsalted butter, pecans, salt, whole milk, granulated sugar, heavy cream, vanilla extract]",ice+cream
+Cola-Ice-Cream-593157,Cola Ice Cream,4,3900.0,[Desserts],,"[half & half, heavy whipping cream, large egg yolks, sugar, cola]",ice+cream
+Nutmeg-Ice-Cream-1006944,Nutmeg Ice Cream,4,3000.0,[Desserts],,"[double cream, whole milk, caster sugar, egg yolks, corn flour, nutmeg, ground nutmeg]",ice+cream
+Easy-No-Churn-Pumpkin-Chocolate-Ice-Cream-1374520,Easy No-Churn Pumpkin Chocolate Ice Cream,4,22200.0,[Desserts],,"[fudge, sweetened condensed milk, heavy whipping cream, vanilla, pumpkin, cream cheese, cinnamon, pumpkin pie spice]",ice+cream
+Easy-Homemade-Vanilla-Ice-Cream-1248962,Easy Homemade Vanilla Ice Cream,4,2700.0,[Desserts],,"[heavy cream, milk, sugar, vanilla extract, salt]",ice+cream
+Salted-Honey-Ice-Cream-470037,Salted Honey Ice Cream,4,3600.0,[Desserts],,"[honey, sea salt, whole milk, sugar, large egg yolks, heavy cream]",ice+cream
+Basil-Ice-Cream-511268,Basil Ice Cream,5,6300.0,[Desserts],,"[heavy cream, sugar, basil, egg yolks, half & half, vanilla beans]",ice+cream
+Cherry-garcia-ice-cream-369385,Cherry Garcia Ice Cream,4,3300.0,[Desserts],,"[plain chocolate, bing cherries, large eggs, sugar, heavy cream, milk, pure vanilla extract]",ice+cream
+Maple-Whisky-Ice-Cream-1070889,Maple Whisky Ice Cream,4,3300.0,[Desserts],,"[heavy cream, milk, sugar, salt, whisky, corn starch]",ice+cream
+Mock-Fried-Ice-Cream-1377763,Mock Fried Ice Cream,3,3000.0,[Desserts],,"[yoplait, Cinnamon Toast Crunch Cereal, caramel topping]",ice+cream
+Creamy-Pumpkin-Ice-Cream-1229754,Creamy Pumpkin Ice Cream,4,1500.0,[Desserts],,"[pumpkin, heavy whipping cream, vanilla extract, ground cinnamon, ground cloves, nutmeg, brown sugar]",ice+cream
+No-Churn-Pumpkin-Pie-Ice-Cream-1315635,No Churn Pumpkin Pie Ice Cream,3,1800.0,[Desserts],,"[heavy whipping cream, condensed milk, pumpkin purée, pumpkin pie spice, vanilla]",ice+cream
+Maple-Salted-Macadamia-Ice-Cream-1178575,Maple Salted Macadamia Ice Cream,4,1800.0,[Desserts],,"[macadamia nuts, maple syrup, large eggs, sugar, heavy cream, milk]",ice+cream
+Boozy-Chocolate-Ice-Cream-1063942,Boozy Chocolate Ice Cream,3,18600.0,[Desserts],,"[chocolate, milk, cream, Baileys Irish Cream Liqueur, bananas]",ice+cream
+Cookies-n_-Cream-Oreo-Fudge-Ice-Cream-1264844,Cookies n' Cream Oreo Fudge Ice Cream,4,36600.0,[Desserts],,"[half & half, heavy cream, vanilla, sugar, OREO® Cookies, hot fudge topping]",ice+cream
+Vanilla-Ice-Cream-1186470,Vanilla Ice Cream,3,3300.0,[Desserts],,"[whole milk, sugar substitute, heavy cream, pure vanilla extract]",ice+cream
+Five-Ingredient-Ice-Cream-Allrecipes,Five Ingredient Ice Cream,5,14400.0,[Desserts],,"[cold milk, vanilla extract, sweetened condensed milk, salt, heavy cream]",ice+cream
+Mint-Chocolate-Chip-Ice-Cream-1356184,Mint Chocolate Chip Ice Cream,4,2100.0,[Desserts],,"[heavy cream, whole milk, granulated sugar, egg yolks, salt, mint leaves, dark chocolate]",ice+cream
+White-Nectarine-Ice-Cream-599996,White Nectarine Ice Cream,3,3300.0,[Desserts],,"[nectarines, water, sugar, sour cream, heavy cream, vanilla extract, juice]",ice+cream
+Nocciolata-Ice-Cream-1070829,Nocciolata Ice Cream,4,2400.0,[Desserts],,"[heavy cream, whole milk, chocolate-hazelnut spread, sugar, salt, vanilla extract]",ice+cream
+Cinnamon-Ice-Cream-1112732,Cinnamon Ice Cream,4,300.0,[Desserts],,"[cream, milk, sugar, cinnamon, salt, vanilla]",ice+cream
+Butter-Pecan-Ice-Cream-Allrecipes,Butter Pecan Ice Cream,5,7500.0,[Desserts],,"[chopped pecans, butter, brown sugar, eggs, cream, heavy cream, vanilla extract]",ice+cream
+Tiramisu-Ice-Cream-625618,Tiramisu Ice Cream,3,3300.0,[Desserts],,"[mascarpone, half & half, sugar, instant espresso powder, salt, coffee liqueur, brandy, fudge, light corn syrup, brewed coffee, Dutch-processed cocoa powder, pure vanilla extract]",ice+cream
+Honeysuckle-Ice-Cream-1242644,Honeysuckle Ice Cream,3,2100.0,[Desserts],,"[heavy cream, whole milk, sugar, vanilla beans]",ice+cream
+Tiramisu-Ice-Cream-Cake-1359969,Tiramisu Ice Cream Cake,4,5700.0,[Desserts],,"[heavy cream, sweetened condensed milk, International Delight Iced Coffee, pound cake, semi-sweet chocolate morsels, sugar, chocolate bars]",ice+cream
+Basic-Ice-Cream-895454,Basic Ice Cream,4,3000.0,[Desserts],,"[whole milk, heavy cream, egg yolks, salt, sugar, vanilla extract, honey]",ice+cream
+Coffee-Ice-Cream-1181045,Coffee Ice Cream,4,2400.0,[Desserts],,"[heavy cream, sweetened condensed milk, butter, vanilla, brewed coffee, cacao nibs]",ice+cream
+Organic-Vanilla-Chocolate-Swirl-Ice-Cream-1319435,Organic Vanilla Chocolate Swirl Ice Cream,4,3000.0,[Desserts],,"[whole milk, organic cane sugar, salt, heavy cream, vanilla extract, arrowroot starch, chocolate chips]",ice+cream
+Five-minute-Ice-Cream-978090,Five-minute Ice Cream,4,1200.0,[Desserts],,"[sugar, milk & cream, vanilla extract, salt, ice]",ice+cream
+Black-Licorice-Ice-Cream-Spiders-1365695,Black Licorice Ice Cream Spiders,4,2700.0,[Desserts],,"[heavy whipping cream, sweetened condensed milk, black licorice, water, mini candy button eyes, black food coloring]",ice+cream
+Cherry-Ice-Cream-511768,Cherry Ice Cream,4,6300.0,[Desserts],,"[heavy cream, whole milk, granulated sugar, salt, vanilla beans, vanilla extract, cherries]",ice+cream
+Chocolate-and-Hazelnut-Vegan-Ice-Cream-1359396,Chocolate and Hazelnut Vegan Ice Cream,4,13200.0,[Desserts],,"[hazelnuts, cashew nuts, coconut milk, cacao, maple syrup]",ice+cream
+Ginger-Tea-Ice-Cream-_Teh-Halia-Ice-Cream_-1318097,Ginger Tea Ice Cream (Teh Halia Ice Cream),4,1500.0,[Desserts],,"[ginger, tea bags, sugar, whole milk, heavy whipping cream, crystallized ginger, condensed milk]",ice+cream
+No-Fry-Fried-Ice-Cream-1242393,No-Fry Fried Ice Cream,4,1200.0,[Desserts],,"[corn flakes, butter, cinnamon, sugar, vanilla ice cream]",ice+cream
+Cotton-Candy-Ice-Cream-1198135,Cotton Candy Ice Cream,4,86400.0,[Desserts],,"[whole milk, heavy cream, granulated sugar, flavored syrup, salt, corn starch, vanilla extract, candy]",ice+cream
+Vanilla-Bean-Ice-Cream-1315075,Vanilla Bean Ice Cream,4,2400.0,[Desserts],,"[heavy cream, whole milk, vanilla beans, salt, large egg yolks, sugar]",ice+cream
+Cheddar-Cheese-Ice-Cream-1363657,Cheddar Cheese Ice Cream,4,3900.0,[Desserts],,"[whole milk, sugar, large egg yolks, mild cheddar cheese, water, dark corn syrup, salt, peanuts, unsalted butter, vanilla extract, baking soda]",ice+cream
+Lemon-Creme-Ice-Cream-1212063,Lemon Creme Ice Cream,4,2700.0,[Desserts],,"[whipping cream, coffee, lemon pudding, sugar, salt, lemon]",ice+cream
+Cinnamon-Ice-Cream-Simply-Recipes-42555,Cinnamon Ice Cream,5,2700.0,[Desserts],,"[ground cinnamon, whole milk, sugar, salt, heavy cream, egg yolks]",ice+cream
+Nutella-Ice-Cream-947178,Nutella Ice Cream,4,2100.0,[Desserts],,"[heavy cream, almond milk, sugar, Nutella, vanilla]",ice+cream
+Birthday-Oreo-Ice-Cream-470709,Birthday Oreo Ice Cream,4,2400.0,[Desserts],,"[whole milk, heavy cream, large egg yolks, sugar, salt, vanilla extract, OREO® Cookies]",ice+cream
+Nutella-Ice-Cream-1287406,Nutella Ice Cream,4,1200.0,[Desserts],,"[Nutella, sugar, heavy cream, milk, vodka]",ice+cream
+Beer-Ice-Cream-1191620,Beer Ice Cream,4,3000.0,[Desserts],,"[beer, pure vanilla, sugar, sea salt, yolk, whipping cream]",ice+cream
+Raspberry-Ice-Cream-460461,Raspberry Ice Cream,3,3000.0,[Desserts],,"[milk, heavy cream, egg yolks, sugar, frozen raspberries, crystallized flowers]",ice+cream
+Homemade-Peaches-_-Cream-No-Churn-Ice-Cream-1245721,Homemade Peaches & Cream No Churn Ice Cream,4,1500.0,[Desserts],,"[heavy cream, sweetened condensed milk, peaches, vanilla extract, cinnamon, brown sugar]",ice+cream
+Peach-Cobbler-Ice-Cream-1313350,Peach Cobbler Ice Cream,4,2400.0,[Desserts],,"[heavy cream, milk, vanilla, sugar, fine sea salt, peaches]",ice+cream
+Peach-Ice-Cream-631573,Peach Ice Cream,5,4200.0,[Desserts],,"[whole milk, eggs, egg yolks, sugar, heavy cream, peaches, lemon]",ice+cream
+Ice-Cream-Dream-Cake-1336669,Ice Cream Dream Cake,4,3600.0,[Desserts],,"[heavy cream, confectioners sugar, sandwiches, chocolate chips]",ice+cream
+Butterscotch-ice-cream-307232,Butterscotch Ice Cream,5,,[Desserts],,"[firmly packed brown sugar, butter, vanilla, bourbon whiskey, whipping cream, half & half, large egg yolks]",ice+cream
+Olive-Oil-Ice-Cream-579795,Olive Oil Ice Cream,3,3300.0,[Desserts],,"[whole milk, heavy cream, kosher salt, sugar, large egg yolks, extra-virgin olive oil, ice cream]",ice+cream
+Vanilla-Ice-Cream-498717,Vanilla Ice Cream,0,1200.0,[Desserts],,"[heavy cream, whole milk, large egg yolks, sugar, salt, vanilla bean paste]",ice+cream
+Malted-Mocha-Chocolate-Chip-Ice-Cream-1273167,Malted Mocha Chocolate Chip Ice Cream,4,15600.0,[Desserts],,"[heavy cream, whole milk, malted milk powder, granulated sugar, unsweetened cocoa powder, instant espresso, vanilla extract, semi-sweet chocolate morsels]",ice+cream
+Peppermint-Ice-Cream-940210,Peppermint Ice Cream,4,2100.0,[Desserts],,"[candy canes, heavy cream, milk, sugar, vanilla extract, peppermint extract, fine sea salt]",ice+cream
+Lemon-Creme-Ice-Cream-1208547,Lemon Creme Ice Cream,4,2700.0,[Desserts],,"[whipping cream, coffee, lemon pudding, sugar, salt, lemon]",ice+cream
+Chocolate-Ice-Cream-Martha-Stewart_1,Chocolate Ice Cream,4,3000.0,[Desserts],,"[large egg yolks, sugar, coarse salt, skim milk, unsweetened cocoa powder, heavy cream]",ice+cream
+Simple-Vanilla-Ice-Cream-512239,Simple Vanilla Ice Cream,5,4500.0,[Desserts],,"[egg yolks, heavy cream, half & half, sugar, vanilla beans]",ice+cream
+Tart-Lemon-Ice-Cream-Allrecipes,Tart Lemon Ice Cream,4,14400.0,[Desserts],,"[lemon, white sugar, milk, heavy cream]",ice+cream
+Cream-Cheese-Ice-Cream-1306059,Cream Cheese Ice Cream,4,2100.0,[Desserts],,"[cream cheese, erythritol, sour cream, coconut cream, vanilla extract, stevia, salt]",ice+cream
+S_mores-Ice-Cream-1168573,S'mores Ice Cream,4,1980.0,[Desserts],,"[whole milk, whipping cream, granulated sugar, salt, vanilla, large marshmallows, graham crackers, chocolate bars]",ice+cream
+Vanilla-Bean-Ice-Cream-494906,Vanilla Bean Ice Cream,4,10800.0,[Desserts],,"[whole milk, sugar, heavy cream, salt, vanilla beans, large egg yolks, vanilla extract]",ice+cream
+Best-Bourbon-Ice-Cream-510780,Best Bourbon Ice Cream,5,4500.0,[Desserts],,"[egg yolks, heavy cream, half & half, sugar, vanilla beans, bourbon whiskey]",ice+cream
+Fresh-Peach-Ice-Cream-1317846,Fresh Peach Ice Cream,4,8400.0,[Desserts],,"[whole milk, sugar, salt, pure vanilla extract, heavy cream, peaches]",ice+cream
+No-Churn-Extreme-Chocolate-Ice-Cream-1272957,No Churn Extreme Chocolate Ice Cream,4,1200.0,[Desserts],,"[heavy whipping cream, sweetened condensed milk, cocoa, brownie chunks, semisweet chocolate chunks]",ice+cream
+Blueberry-Chocolate-Chip-Ice-Cream-489241,Blueberry Chocolate Chip Ice Cream,4,86400.0,[Desserts],,"[blueberries, sugar, salt, whole milk, heavy cream, semi-sweet chocolate morsels]",ice+cream
+Honey-Ice-Cream-632115,Honey Ice Cream,4,480.0,[Desserts],,"[whipping cream, whole milk, honey, egg yolks]",ice+cream
+Almond-Nougat-Ice-Cream-1314616,Almond Nougat Ice Cream,4,1200.0,[Desserts],,"[honey, sugar, water, large egg whites, heavy cream, almond extract, sliced almonds]",ice+cream
+Red-Velvet-Ice-Cream-482378,Red Velvet Ice Cream,4,32400.0,[Desserts],,"[cream cheese, sour cream, half & half, granulated sugar, salt, cake crumbs]",ice+cream
+Keto-Mocha-Ice-Cream-1247644,Keto Mocha Ice Cream,3,1800.0,[Desserts],,"[coconut milk, heavy cream, erythritol, liquid stevia, cocoa powder, instant coffee, xanthan gum]",ice+cream
+Green-Tea-Matcha-Ice-Cream-1168561,Green Tea Matcha Ice Cream,4,1800.0,[Desserts],,"[heavy cream, whole milk, egg yolks, sugar, corn starch, matcha, vodka, ice cream]",ice+cream
+Boozy-eggnog-ice-cream-334225,Boozy Eggnog Ice Cream,5,3000.0,[Desserts],,"[eggnog, corn starch, cream cheese, fine sea salt, heavy cream, granulated sugar, light corn syrup, dark rum]",ice+cream
+Lemon-Curd-Ice-Cream-470443,Lemon Curd Ice Cream,4,3000.0,[Desserts],,"[sugar, egg yolks, heavy cream, milk, lemon curd, lemon, lemon juice]",ice+cream
+Chocolate-Ice-Cream-BB,Chocolate Ice Cream,4,3300.0,[Desserts],,"[heavy cream, Dutch-processed cocoa powder, semisweet chocolate, whole milk, granulated sugar, salt, large egg yolks, vanilla extract]",ice+cream
+Caramel-Ice-Cream-With-Caramel-Swirl-960428,Caramel Ice Cream With Caramel Swirl,4,4500.0,[Desserts],,"[heavy cream, whole milk, granulated sugar, egg yolks, caramel sauce, vanilla extract]",ice+cream
+Vanilla-Ice-Cream-470184,Vanilla Ice Cream,4,2400.0,[Desserts],,"[whole milk, heavy cream, sugar, salt, vanilla beans, vanilla extract]",ice+cream
+Fruity-Pebble-Marshmallow-Treat-Ice-Cream-Sandwich-1374565,Fruity Pebble Marshmallow Treat Ice Cream Sandwich,3,28800.0,[Desserts],,"[ice cream, butter, mini marshmallows, cereal, cookies, marshmallows, vanilla bean ice cream, mint chocolate chip ice cream, peanut butter cookies]",ice+cream
+Cherry-Lemonade-Ice-Cream-611473,Cherry Lemonade Ice Cream,3,2700.0,[Desserts],,"[heavy cream, whole milk, large egg yolks, large eggs, granulated sugar, lemon extract, yellow food coloring, cherries]",ice+cream
+Peanut-Butter-Ice-Cream-1204941,Peanut Butter Ice Cream,4,2400.0,[Desserts],,"[half & half, heavy cream, sugar, brown sugar, peanut butter, vanilla]",ice+cream
+No-Fry-Fried-Ice-Cream-1174488,No Fry Fried Ice Cream,4,1800.0,[Desserts],,"[corn flakes, butter, cinnamon, sugar, vanilla ice cream]",ice+cream
+Easy-Homemade-3-Ingredient-Lemon-Ice-Cream-1172447,Easy Homemade 3-Ingredient Lemon Ice Cream,4,2700.0,[Desserts],,"[whipping cream, granulated sugar, lemon]",ice+cream
+Ricotta-Honey-Ice-Cream-684331,Ricotta-Honey Ice Cream,4,14400.0,[Desserts],,"[heavy cream, ricotta cheese, wildflower honey, vanilla, cinnamon]",ice+cream
+Caramelized-Banana-Ice-Cream-Once-Upon-A-Chef-200042,Caramelized Banana Ice Cream,5,3900.0,[Desserts],,"[bananas, light brown sugar, butter, whole milk, granulated sugar, vanilla extract, lemon juice, salt]",ice+cream
+Brown-Butter-Ice-Cream-1044166,Brown Butter Ice Cream,3,4500.0,[Desserts],,"[unsalted butter, ice cream, skim milk, sugar, egg yolks, brown butter]",ice+cream
+Lemon-Ice-Cream-1170393,Lemon Ice Cream,4,2700.0,[Desserts],,"[grated lemon zest, fresh lemon juice, sugar, eggs, whipping cream, whole milk, vanilla, salt]",ice+cream
+Blueberry-Rosemary-Ice-Cream-1366310,Blueberry Rosemary Ice Cream,3,30000.0,[Desserts],,"[full fat coconut milk, fresh blueberries, honey, fresh rosemary, lemon extract, large egg yolks]",ice+cream
+Cookies-n-Cream-Ice-Cream-1169138,Cookies ‘n Cream Ice Cream,3,4800.0,[Desserts],,"[whole milk, sugar, vanilla extract, heavy cream, OREO® Cookies]",ice+cream
+Strawberry-Shortbread-Ice-Cream-1234018,Strawberry Shortbread Ice Cream,4,600.0,[Desserts],,"[sweetened condensed milk, vanilla extract, heavy whipping cream, strawberry sauce, strawberries, shortbread]",ice+cream
+Easiest-Vanilla-Ice-Cream-1260246,Easiest Vanilla Ice Cream,3,3300.0,[Desserts],,"[heavy cream, half & half, whole milk, vanilla beans, pure vanilla extract, granulated sugar, salt]",ice+cream
+No-Churn-Biscoff-Ice-Cream-1329868,No-Churn Biscoff Ice Cream,4,27000.0,[Desserts],,"[Biscoff Creamy Spread, powdered sugar, sweetened condensed milk, pure vanilla extract, bourbon whiskey, heavy cream, cookies]",ice+cream
+Chocolate-Chip-Pumpkin-Cookie-Dough-Ice-Cream-1365486,Chocolate Chip Pumpkin Cookie Dough Ice Cream,4,,,,"[evaporated milk, sweetened condensed milk, heavy cream, vanilla extract, whipped topping, unsalted butter, brown sugar, granulated sugar, pumpkin purée, flour, salt, pumpkin pie spice, mini chocolate chips]",ice+cream
+Easy-Indian-Kulfi-_Ice-Cream-Without-an-Ice-Cream-Freezer_-1308581,Easy Indian Kulfi (Ice Cream Without an Ice Cream Freezer),4,900.0,[Desserts],,"[light cream, nonfat evaporated milk, low-fat sweetened condensed milk, flavoring]",ice+cream
+Blackberry-Ice-Cream-604015,Blackberry Ice Cream,3,3600.0,[Desserts],,"[blackberries, whole milk, heavy cream, salt, egg yolks, sugar, corn starch, vanilla extract]",ice+cream
+Mint-Julep-Ice-Cream-Simply-Recipes-42575,Mint Julep Ice Cream,5,4500.0,[Desserts],,"[mint leaves, milk, cream, egg yolks, sugar, kosher salt, bourbon whiskey, vanilla extract]",ice+cream
+Dirty-Dr_-Pepper-Ice-Cream-1232482,Dirty Dr. Pepper Ice Cream,4,22800.0,[Desserts],,"[whipping cream, Dr Pepper Soda, coconut syrup, lime]",ice+cream
+Gingerbread-Ice-Cream-470922,Gingerbread Ice Cream,5,6300.0,[Desserts],,"[heavy cream, whole milk, fresh ginger, large egg yolks, light brown sugar, molasses, ground ginger, ground cinnamon, ground cloves, grated nutmeg, salt, vanilla extract]",ice+cream
+Strawberry-Ice-Cream-1191504,Strawberry Ice Cream,4,2400.0,[Desserts],,"[heavy cream, whole milk, large egg yolks, sugar, pure vanilla extract, salt, strawberries]",ice+cream
+Pina-Colada-Ice-Cream-1035326,Piña Colada Ice Cream,4,6300.0,[Desserts],,"[shredded coconut, whole milk, heavy cream, sugar, salt, vanilla beans, large egg yolks, light rum, vanilla extract, pineapple chunks, water]",ice+cream
+Peach-Ice-Cream-458455,Peach Ice Cream,4,3900.0,[Desserts],,"[vanilla ice cream, peaches, sugar]",ice+cream
+Warm-Apples-And-Cinnamon-Ice-Cream-1349847,Warm Apples And Cinnamon Ice Cream,4,1800.0,[Desserts],,"[cream, milk, sugar, cinnamon sticks, egg yolks, water, apples]",ice+cream
+Rolo-Ice-Cream-1110719,Rolo Ice Cream,4,4200.0,[Desserts],,"[half & half, heavy cream, vanilla beans, large egg yolks, granulated sugar, Rolo Caramels, caramel syrup]",ice+cream
+Lucky-Charms-Ice-Cream-Cake-681668,Lucky Charms Ice Cream Cake,4,12000.0,[Desserts],,"[heavy whipping cream, sweetened condensed milk, Lucky Charms Cereal]",ice+cream
+Easy-Ice-Cream-Cake-My-Recipes,Easy Ice Cream Cake,4,6300.0,[Desserts],,"[heavy cream, confectioners sugar, ice cream, candy bar]",ice+cream
+Peanut-Butter-Ice-Cream-1108178,Peanut Butter Ice Cream,4,2700.0,[Desserts],,"[granulated sugar, eggs, egg yolks, milk, creamy peanut butter, heavy cream, vanilla]",ice+cream
+Chocolate-Ice-Cream-Simply-Recipes-42524,Chocolate Ice Cream,5,10800.0,[Desserts],,"[baking chocolate, boiling water, unsweetened cocoa powder, sugar, milk, cream, salt, instant coffee, egg yolks, vanilla extract]",ice+cream
+Faux-Fried-Ice-Cream-1020673,Faux-Fried Ice Cream,3,3000.0,[Desserts],,"[vanilla ice cream, cinnamon, Corn Flakes Cereal, canola oil, honey, salt, chocolate syrup]",ice+cream
+Lemon-curd-ice-cream-370131,Lemon Curd Ice Cream,4,3000.0,[Desserts],,"[lemon curd, whipping cream, milk, powdered sugar]",ice+cream
+Strawberry-Ice-Cream-in-5-Minutes-1041391,Strawberry Ice Cream in 5 Minutes,4,1800.0,[Desserts],,"[frozen strawberries, pure maple syrup, almond milk]",ice+cream
+Vegan-vanilla-ice-cream-345506,Vegan Vanilla Ice Cream,5,1500.0,[Desserts],,"[raw cashews, water, agave nectar, vanilla extract, sea salt]",ice+cream
+Homemade-Vanilla-Ice-Cream-1057144,Homemade Vanilla Ice Cream,4,8400.0,[Desserts],,"[whole milk, sugar, salt, pure vanilla extract, heavy cream]",ice+cream
+Vanilla-Ice-Cream-470305,Vanilla Ice Cream,4,2100.0,[Desserts],,"[whole milk, granulated sugar, heavy cream, pure vanilla extract]",ice+cream
+Peaches-and-Cream-Ice-Cream-1184921,Peaches and Cream Ice Cream,4,34200.0,[Desserts],,"[peaches, lemon juice, sugar, heavy cream, sweetened condensed milk]",ice+cream
+Pomegranate-Ice-Cream-1207551,Pomegranate Ice Cream,4,900.0,[Desserts],,"[pomegranate juice, coconut milk, ice cream cones, pomegranate seeds]",ice+cream
+Un-Fried_-Fried-Ice-Cream-471143,"Un-Fried, Fried Ice Cream",5,3600.0,[Desserts],,"[vanilla ice cream, honey, butter, sugar, cinnamon]",ice+cream
+Easy-No-Churn-Oreo-Ice-Cream-1078363,Easy No-Churn Oreo Ice Cream,4,1200.0,[Desserts],,"[heavy whipping cream, sweetened condensed milk, vanilla extract, OREO® Cookies]",ice+cream
+Lemon-Pie-Ice-Cream-1180982,Lemon Pie Ice Cream,4,1800.0,[Desserts],,"[lemon juice, sweetened condensed milk, pure vanilla extract, tumeric, lemon, heavy cream, gluten]",ice+cream
+Homemade-Strawberry-Ice-Cream-1126797,Homemade Strawberry Ice Cream,4,2400.0,[Desserts],,"[strawberries, honey, granulated sugar, lemon juice, heavy whipping cream, half & half, vanilla extract]",ice+cream
+Classic-Creamy-Vanilla-Ice-Cream-1121184,Classic Creamy Vanilla Ice Cream,4,3900.0,[Desserts],,"[egg yolks, sugar, heavy cream, whole milk, vanilla extract]",ice+cream
+Mango-Mimosa-Ice-Cream-1226217,Mango Mimosa Ice Cream,4,9000.0,[Desserts],,"[mango, heavy whipping cream, champagne, vanilla bean paste, salt]",ice+cream
+Worlds-Easiest-Ice-Cream-1305477,World’s Easiest Ice Cream,4,2100.0,[Desserts],,"[bananas, milk]",ice+cream
+Cookies-and-Cream-Frozen-Custard-_Ice-Cream_-1004928,Cookies and Cream Frozen Custard (Ice Cream),4,1500.0,[Desserts],,"[heavy cream, half & half, sugar, vanilla bean seeds, egg yolks, OREO® Cookies]",ice+cream
+No-Churn-Cookie-Monster-Ice-Cream-1112796,No Churn Cookie Monster Ice Cream,4,3000.0,[Desserts],,"[heavy cream, sweetened condensed milk, vanilla, food colouring, chocolate sandwich cookies, chocolate chip cookies]",ice+cream
+Apricot-Chocolate-ChipIce-Cream-1331879,Apricot Chocolate Chip Ice Cream,4,3900.0,[Desserts],,"[milk, sugar, cream, apricot puree, chocolate chips, coconut oil]",ice+cream
+Coffee-ice-cream-344674,Coffee Ice Cream,5,4500.0,[Desserts],,"[whole milk, corn starch, cream cheese, fine sea salt, heavy cream, turbinado, agave nectar, coffee beans]",ice+cream
+Root-Beer-Ice-Cream-1291823,Root Beer Ice Cream,4,1800.0,[Desserts],,"[granulated sugar, kosher salt, heavy whipping cream, vanilla bean paste, extract, whole milk, root beer]",ice+cream
+Coffee-Ice-Cream-Without-a-Machine-1078708,Coffee Ice Cream Without a Machine,3,1800.0,[Desserts],,"[whipping cream, sweetened condensed milk, instant coffee, water]",ice+cream
+Homemade-Vanilla-Ice-Cream-1208054,Homemade Vanilla Ice Cream,4,1800.0,[Desserts],,"[whole milk, sugar, heavy cream, salt, vanilla beans, large egg yolks, vanilla extract]",ice+cream
+Swirlberry-ice-cream-348309,Swirlberry Ice Cream,4,1500.0,[Desserts],,"[frozen strawberries, frozen raspberries, sugar, salt, heavy cream, milk]",ice+cream
+Vanilla-Bean-Ice-Cream-1246633,Vanilla Bean Ice Cream,4,900.0,[Desserts],,"[heavy whipping cream, half & half, sugar, vanilla beans, kosher salt]",ice+cream
+Raspberry-Coconut-Ice-Cream-1168667,Raspberry Coconut Ice Cream,4,300.0,[Desserts],,"[frozen raspberries, coconut milk, coconut cream, maple syrup, coconut water]",ice+cream
+Copycat-Dairy-Queen-Vanilla-Ice-Cream-1117818,Copycat Dairy Queen Vanilla Ice Cream,3,10800.0,[Desserts],,"[heavy whipping cream, sugar, vanilla extract]",ice+cream
+Cinnamon-Vanilla-Bean-Ice-Cream-1068070,Cinnamon Vanilla Bean Ice Cream,4,2400.0,[Desserts],,"[egg yolks, granulated sugar, cinnamon, vanilla pods, whole milk, heavy cream]",ice+cream
+Magic-chocolate-ice-cream-370260,Magic Chocolate Ice Cream,5,2100.0,[Desserts],,"[sweetened condensed milk, vanilla extract, salt, bittersweet chocolate, heavy cream]",ice+cream
+Chai-Ice-Cream-Simply-Recipes-42931,Chai Ice Cream,5,4800.0,[Desserts],,"[star anise, clove, allspice, cinnamon sticks, white peppercorns, cardamom pods, black tea, milk, heavy cream, sugar, salt, egg yolks]",ice+cream
+Super-Lemon-Ice-Cream-636265,Super Lemon Ice Cream,5,45900.0,[Desserts],,"[heavy whipping cream, cream, white sugar, grated lemon zest, egg yolks, fresh lemon juice]",ice+cream
+Boozy-butterscotch-ice-cream-336116,Boozy Butterscotch Ice Cream,5,1800.0,[Desserts],,"[butter, turbinado, cream, milk, egg yolks, whiskey, kosher salt]",ice+cream
+Maple-ice-cream-304861,Maple Ice Cream,5,2700.0,[Desserts],,"[egg yolks, maple syrup, cream, half & half, kosher salt]",ice+cream
+Kefir-Ice-Cream-1087678,Kefir Ice Cream,4,2700.0,[Desserts],,"[eggs, heavy cream, kefir, honey, vanilla extract]",ice+cream
+No-Churn-Pistachio-Ice-Cream-1317035,No Churn Pistachio Ice Cream,4,2100.0,[Desserts],,"[heavy whipping cream, sweetened condensed milk, instant pudding mix, crushed pistachio, color food green]",ice+cream
+Maple-Ice-Cream-510700,Maple Ice Cream,5,3300.0,[Desserts],,"[maple syrup, whole milk, heavy cream, salt, large egg yolks, maple extract]",ice+cream
+Pumpkin-Gingersnap-Ice-Cream-1339737,Pumpkin Gingersnap Ice Cream,4,86400.0,[Desserts],,"[heavy cream, whole milk, light brown sugar, pumpkin purée, cinnamon, nutmeg, ground cloves, salt, vanilla, egg yolks, gingersnap]",ice+cream
+Blackberry-Ice-Cream-475721,Blackberry Ice Cream,4,3600.0,[Desserts],,"[blackberries, sugar, large egg yolks, heavy cream, 2% reduced-fat milk, kosher salt]",ice+cream
+Irish-Cream-Ice-Cream-1181433,Irish Cream Ice Cream,3,900.0,[Desserts],,"[half & half, white sugar, brown sugar, heavy whipping cream, vanilla extract, liquor]",ice+cream
+Mint-chip-ice-cream-310737,Mint Chip Ice Cream,5,,,,"[whole milk, sugar, heavy cream, salt, fresh mint, large egg yolks]",ice+cream
+No-Churn-Butterscotch-Ice-Cream-681840,No Churn Butterscotch Ice Cream,4,2100.0,[Desserts],,"[whole milk, egg yolks, light brown sugar, butterscotch chips, vanilla extract, heavy cream, powdered sugar]",ice+cream
+No-Churn-Vanilla-Ice-Cream-1309021,No-Churn Vanilla Ice Cream,4,1800.0,[Desserts],,"[heavy cream, sweetened condensed milk, vanilla extract]",ice+cream
+Blackberry-Ice-Cream-1269579,Blackberry Ice Cream,4,1800.0,[Desserts],,"[sweetened condensed milk, heavy whipping cream, blackberry pie filling]",ice+cream
+Brown-Sugar-Ice-Cream-1203870,Brown Sugar Ice Cream,4,2400.0,[Desserts],,"[whole milk, brown sugar, salt, heavy cream, vanilla]",ice+cream
+Maraschino-Cherry-Ice-Cream-498045,Maraschino Cherry Ice Cream,4,3000.0,[Desserts],,"[heavy cream, sweetened condensed milk, vanilla extract, cocktail cherries]",ice+cream
+Ice-Cream-1322890,Ice Cream,4,3000.0,[Desserts],,"[fresh blueberries, fresh lemon juice, coconut sugar, sweetened condensed milk, cinnamon, cointreau, semi-sweet chocolate morsels, heavy whipping cream]",ice+cream
+Chocolate-Cherry-Ice-Cream-495273,Chocolate Cherry Ice Cream,4,14400.0,[Desserts],,"[heavy cream, Dutch-processed cocoa powder, semisweet chocolate, whole milk, sugar, salt, large egg yolks, vanilla extract, cherries, light corn syrup, water, vanilla]",ice+cream
+Peaches-and-Cream-Ice-Cream-1270593,Peaches and Cream Ice Cream,4,300.0,[Desserts],,"[heavy whipping cream, sweetened condensed milk, vanilla extract, peaches]",ice+cream
+Kumquat-Soft-Serve-Ice-Cream-1063930,Kumquat Soft Serve Ice Cream,4,600.0,[Desserts],,"[milk, heavy cream, kumquats]",ice+cream
+Coconut-Ice-Cream-1125346,Coconut Ice Cream,4,2400.0,[Desserts],,"[whole milk, cream of coconut, heavy cream, berries, fudge, sweetened coconut flakes]",ice+cream
+Lemon-Bar-Ice-Cream-628011,Lemon Bar Ice Cream,3,3900.0,[Desserts],,"[grated lemon zest, fresh lemon juice, sugar, large eggs, cream, vanilla beans]",ice+cream
+Strawberry-Ice-Cream-574059,Strawberry Ice Cream,4,1200.0,[Desserts],,"[strawberries, heavy whipping cream, sugar, egg yolks]",ice+cream
+Leprechaun-Ice-Cream-947235,Leprechaun Ice Cream,4,1500.0,[Desserts],,"[heavy whipping cream, milk, green creme de menthe, sugar, salt, crème fraîche, mint]",ice+cream
+Harvest-ice-cream-cake-299148,Harvest Ice Cream Cake,4,19200.0,[Desserts],,"[breyer smooth & dreami 1/2 the fat butter pecan ice cream, caramel ice cream topping, flavoring, chocolate]",ice+cream
+Rose-Ice-Cream-AllRecipes,Rose Ice Cream,5,8400.0,[Desserts],,"[saffron, milk, vanilla ice cream, rose syrup, ground cardamom, pistachio nuts]",ice+cream
+Roasted-Strawberry-Ice-Cream-633275,Roasted Strawberry Ice Cream,3,86400.0,[Desserts],,"[strawberries, heavy cream, whole milk, granulated sugar, salt, vanilla extract, egg yolks]",ice+cream
+Coconut-chocolate-chip-ice-cream-345408,Coconut Chocolate Chip Ice Cream,5,1500.0,[Desserts],,"[coconut milk, large eggs, coconut sugar, vanilla extract, sea salt, chocolate chunks]",ice+cream
+Fried-Ice-Cream-1333835,Fried Ice Cream,3,7200.0,[Desserts],,"[french vanilla ice cream, crushed cornflakes, ground cinnamon, sugar, egg whites, flour tortillas, vegetable oil, whipped cream, chocolate sauce, cocktail cherries]",ice+cream
+Caramel-Macchiato-Soft-Serve-Ice-Cream-1093909,Caramel Macchiato Soft Serve Ice Cream,4,9600.0,[Desserts],,"[milk, coffee granules, white sugar, salt, heavy cream, sauce]",ice+cream
+Peanut-butter-chocolate-chip-ice-cream-335887,Peanut Butter Chocolate Chip Ice Cream,5,3000.0,[Desserts],,"[creamy peanut butter, sugar, whole milk, heavy cream, vanilla, semisweet chocolate]",ice+cream
+Salted-Caramel-and-Coconut-Ice-Cream-1263633,Salted Caramel and Coconut Ice Cream,4,900.0,[Desserts],,"[coconut cream, almond butter, medjool date, natural vanilla extract, walnuts, honey, salt]",ice+cream
+Pistachio-Ice-Cream-1097281,Pistachio Ice Cream,4,15900.0,[Desserts],,"[unsalted pistachios, sugar, whole milk, egg yolks, pistachios, vanilla, heavy cream]",ice+cream
+Kiwi-Ice-Cream-540983,Kiwi Ice Cream,3,1800.0,[Desserts],,"[kiwi, marshmallow creme, heavy cream]",ice+cream
+Coffee-Ice-Cream-1063868,Coffee Ice Cream,4,4500.0,[Desserts],,"[cream, ground coffee, whole milk, sugar, salt, egg yolks, vanilla extract]",ice+cream
+Butter-Pecan-Ice-Cream-457217,Butter-Pecan Ice Cream,5,1200.0,,,"[pecans, unsalted butter, sugar, heavy cream, milk, egg yolks, salt, vanilla extract]",ice+cream
+Cinnamon-Ice-Cream-563974,Cinnamon Ice Cream,4,,[Desserts],,"[half & half, sugar, cinnamon sticks, vanilla beans, egg yolks, heavy cream, ground cinnamon]",ice+cream
+Vanilla-Ice-Cream-1088476,Vanilla Ice Cream,4,3300.0,[Desserts],,"[milk, heavy cream, corn starch, salt, vanilla powder, granulated sugar, vanilla extract]",ice+cream
+Goat-Cheese-Honey-Thyme-Ice-Cream-1330159,Goat Cheese Honey Thyme Ice Cream,4,1500.0,[Desserts],,"[heavy cream, sweetened condensed milk, honey, soft goat's cheese, fresh thyme]",ice+cream
+Toasted-Vanilla-Ice-Cream-1065457,Toasted Vanilla Ice Cream,4,3600.0,[Desserts],,"[marshmallows, milk, heavy cream, salt, vanilla extract]",ice+cream
+Sweet-Cream-Ice-Cream-1126864,Sweet Cream Ice Cream,4,36000.0,[Desserts],,"[whole milk, corn starch, cream cheese, fine sea salt, heavy cream, granulated sugar, promis, light corn syrup]",ice+cream
+Maple-Bacon-Ice-Cream-759044,Maple Bacon Ice Cream,4,3000.0,[Desserts],,"[egg yolks, maple syrup, half & half, heavy cream, sea salt, thick-cut bacon, toasted walnuts]",ice+cream
+_4-ingredient_-Peanut-Butter-_-Banana-_Ice-Cream_-1250409,"(4 ingredient) Peanut Butter & Banana ""Ice Cream""",4,1800.0,[Desserts],,"[bananas, powdered sugar, milk, vanilla, peanut butter]",ice+cream
+Ice-cream-ornaments-300110,Ice Cream Ornaments,4,23100.0,[Desserts],,"[Breyers® French Vanilla Ice Cream, peanut butter cups, red licorice, sprinkles]",ice+cream
+Avocado-Ice-Cream-474228,Avocado Ice Cream,5,4500.0,[Desserts],[American],"[avocado, granulated sugar, sour cream, heavy cream, lime juice, salt]",ice+cream
+No-Churn-Bacon-Ice-Cream-1273762,No Churn Bacon Ice Cream,4,3300.0,[Desserts],,"[heavy whipping cream, sweetened condensed milk, pure maple syrup, vanilla, bacon]",ice+cream
+Lime-Ice-Cream-TasteOfHome,Lime Ice Cream,5,2400.0,[Desserts],,"[milk, sugar, lime juice, grate lime peel, heavy whipping cream]",ice+cream
+Honey-Vanilla-Ice-Cream-1070854,Honey Vanilla Ice Cream,4,2400.0,[Desserts],,"[heavy cream, raw honey, salt, vanilla extract, whole milk]",ice+cream
+Dulce-de-Leche-Ice-Cream-494883,Dulce de Leche Ice Cream,4,14400.0,[Desserts],,"[heavy cream, whole milk, dulce de leche, vanilla, vanilla beans]",ice+cream
+Peppermint-wrapped-ice-cream-cake-298066,Peppermint-wrapped Ice Cream Cake,4,15900.0,[Desserts],,"[vanilla ice cream, hot fudge topping, whipping heavy cream, greens, flavoring]",ice+cream
+Blood-Orange-Ice-Cream-1058088,Blood Orange Ice Cream,3,2100.0,[Desserts],,"[heavy cream, cold milk, sugar, lemon, blood orange, orange extract, food colouring]",ice+cream
+Lucano-Ice-Cream-1070814,Lucano Ice Cream,4,300.0,[Desserts],,"[sugar cubes, water, cream]",ice+cream
+Butter-Pecan-Ice-Cream-1154305,Butter Pecan Ice Cream,3,18000.0,[Desserts],,"[whole milk, brown sugar, egg yolks, salt, unsalted butter, half & half, whipping cream, vanilla extract, pecans, sugar]",ice+cream
+Chocolate-Butterfinger-Ice-Cream-1073018,Chocolate Butterfinger Ice Cream,4,2400.0,[Desserts],,"[unsweetened cocoa powder, sweetened condensed milk, sugar, heavy whipping cream, whole milk, Butterfinger Candy Bars]",ice+cream
+Chunky-Elvis-Ice-Cream-1206062,Chunky Elvis Ice Cream,4,4800.0,[Desserts],,"[bananas, unsalted butter, honey, bacon, peanut butter chips, heavy cream, whole milk, granulated sugar, vanilla]",ice+cream
+True-Vanilla-Ice-Cream-577548,True Vanilla Ice Cream,3,2700.0,[Desserts],,"[whole milk, sugar, kosher salt, vanilla extract, vanilla beans, large egg yolks, heavy cream]",ice+cream
+Fried-Ice-Cream-1192461,Fried Ice Cream,4,1500.0,[Desserts],,"[ice cream, corn flakes, powdered sugar, cinnamon, honey, chocolate sauce]",ice+cream
+Coffee-Ice-Cream-1066309,Coffee Ice Cream,4,4500.0,[Desserts],,"[milk, heavy cream, granulated sugar, vanilla beans, egg yolks, coffee beans]",ice+cream
+Tiramisu-Ice-Cream-625358,Tiramisu Ice Cream,3,10800.0,[Desserts],,"[milk, cream, vanilla beans, egg yolks, sugar, mascarpone, instant coffee, espresso]",ice+cream
+Instant-Salted-Caramel-Ice-Cream-1334363,Instant Salted Caramel Ice Cream,4,900.0,[Desserts],,"[bananas, coconut cream, maple syrup, almond butter, natural vanilla extract, salt]",ice+cream
+Apricot-and-Cream-Ice-Cream-1016581,Apricot and Cream Ice Cream,4,4500.0,[Desserts],,"[dried apricot, sugar, heavy whipping cream, whole milk, vanilla]",ice+cream
+Cadbury-Mini-Egg-Ice-Cream-1064330,Cadbury Mini Egg Ice Cream,4,1200.0,[Desserts],,"[heavy whipping cream, sweetened condensed milk, vanilla extract, eggs]",ice+cream
+Chocolate-Cherry-Ice-Cream-1207868,Chocolate Cherry Ice Cream,4,15300.0,[Desserts],,"[heavy whipping cream, milk, pure vanilla extract, cherry preserves, chocolate bars]",ice+cream
+Ice-Cream-Cone-Cupcakes-1356074,Ice Cream Cone Cupcakes,4,1800.0,[Desserts],,"[cake mix, eggs, oil, ice cream cones, frosting, sprinkles, cherries]",ice+cream
+Turkey-ice-cream-cake-297953,Turkey Ice Cream Cake,4,16200.0,[Desserts],,"[chocolate ice cream, Skippy® Super Chunk® Peanut Butter, whipping heavy cream, turkey]",ice+cream
+Jalapeno-Ice-Cream-1060908,Jalapeño Ice Cream,4,3000.0,[Desserts],,"[heavy cream, whole milk, sugar, salt, jalapeno chilies, vanilla beans, molasses, corn starch, color food green]",ice+cream
+Key-Lime-Ice-Cream-AllRecipes,Key Lime Ice Cream,4,11700.0,[Desserts],,"[large eggs, white sugar, egg yolks, lemon zest, cream, lime juice]",ice+cream
+Scottish-Butter-Ice-Cream-626900,Scottish Butter Ice Cream,4,5100.0,[Desserts],,"[butter, brown sugar, milk, eggs, superfine sugar, vanilla extract, heavy whipping cream]",ice+cream
+Tutti-Frutti-Ice-Cream-1256977,Tutti Frutti Ice Cream,4,2100.0,[Desserts],,"[milk, heavy cream, sugar, bananas, orange juice, lemon juice, candied orange peel, candied lemon peel]",ice+cream
+Almond-Joy-Ice-Cream-Bombe-1357201,Almond Joy Ice Cream Bombe,4,3000.0,[Desserts],,"[chocolate ice cream, dairy free coconut ice cream, chopped almonds, coconut, almonds]",ice+cream
+Reeses-Fluffernutter-Ice-Cream-634786,Reese’s Fluffernutter Ice Cream,3,2700.0,[Desserts],[Kid-Friendly],"[sweetened condensed milk, peanut butter, heavy whipping cream, miniature peanut butter cups, marshmallow creme]",ice+cream
+Wild-turkey-ice-cream-332232,Wild Turkey Ice Cream,4,3300.0,[Desserts],,"[heavy cream, sugar, bitter chocolate, vanilla, bourbon whiskey]",ice+cream
+Salted-Butter-Caramel-Ice-Cream-510030,Salted Butter Caramel Ice Cream,5,,,,"[whole milk, sugar, salted butter, sea salt, heavy cream, large egg yolks, vanilla extract]",ice+cream
+Roasted-Cherry-_-Vanilla-Ice-Cream-1041643,Roasted Cherry & Vanilla Ice Cream,4,2700.0,[Desserts],,"[cherries, sugar, pure vanilla extract, vanilla ice cream, heavy cream, half & half]",ice+cream
+Apple-Cider-Cinnamon-Ice-Cream-440543,Apple Cider-Cinnamon Ice Cream,5,4200.0,[Desserts],,"[apple cider, evaporated cane juice, cinnamon, milk, heavy cream, ground cinnamon, egg yolks]",ice+cream
+Mint-chocolate-chip-ice-cream-335942,Mint Chocolate Chip Ice Cream,5,3900.0,[Desserts],,"[whole milk, sugar, heavy cream, vanilla, fresh mint, semisweet chocolate]",ice+cream
+Clean-Eating-Pumpkin-Ice-Cream-747492,Clean Eating Pumpkin Ice Cream,4,1500.0,[Desserts],,"[bananas, pumpkin purée, maple syrup, sugar, pumpkin pie spice]",ice+cream
+Lemon-Crumb-Ice-Cream-1187522,Lemon Crumb Ice Cream,4,2400.0,[Desserts],,"[crushed graham crackers, sugar, salt, butter, half & half, heavy cream, fresh lemon juice, vanilla extract, pudding powder]",ice+cream
+Easy-Ice-Cream-Pudding-1352953,Easy Ice Cream Pudding,4,300.0,[Desserts],,"[vanilla ice cream, biscuits, chocolate sauce]",ice+cream
+Strawberry-Ice-Cream-1204607,Strawberry Ice Cream,4,2400.0,[Desserts],,"[heavy cream, sugar, salt, large egg yolks, strawberries, balsamic vinegar]",ice+cream
+Mojito-Ice-Cream-1238392,Mojito Ice Cream,4,3600.0,[Desserts],,"[lime juice, granulated sugar, corn starch, whole milk, heavy cream, light corn syrup, lime, mint leaves, syrup, coconut rum]",ice+cream
+Frozen-Banana-Chocolate-_Ice-Cream_-1372703,"Frozen Banana Chocolate ""Ice Cream""",4,1800.0,[Desserts],,"[bananas, unsweetened cocoa powder, water, chocolate bars, peanut butter, sea salt]",ice+cream
+Mango-Ice-Cream-1013957,Mango Ice Cream,4,1500.0,[Desserts],,"[mango, sugar, cream, vanilla essence]",ice+cream
+Coconut-macadamia-ice-cream-364805,Coconut Macadamia Ice Cream,4,1200.0,[Desserts],,"[cream of coconut, half & half, chocolate shavings, macadamia nuts, shredded coconut]",ice+cream
+Purple-Yam-Ice-Cream---Ube-Ice-Cream-1018170,Purple Yam Ice Cream - Ube Ice Cream,4,2700.0,[Desserts],,"[jam, coconut, heavy cream, whole milk, condensed milk, vanilla extract]",ice+cream
+No-Churn-Pumpkin-Pecan-Ice-Cream-1338091,No Churn Pumpkin Pecan Ice Cream,4,22200.0,[Desserts],,"[heavy cream, vanilla extract, cinnamon, sweetened condensed milk, pumpkin purée, chopped pecans]",ice+cream
+Pistachio-Kirsch-Ice-Cream-1274337,Pistachio Kirsch Ice Cream,4,600.0,[Desserts],,"[heavy cream, sweetened condensed milk, kirsch, vanilla extract, pistachios, dark chocolate chip]",ice+cream
+Chocolate-Ice-Cream-544452,Chocolate Ice Cream,4,1200.0,[Desserts],[American],"[sweetened condensed milk, dark chocolate, whipping cream, cocoa powder, vanilla extract]",ice+cream
+5-Ingredient-Chocolate-Peanut-Butter-Cup-Ice-Cream-Cake-1260042,5 Ingredient Chocolate Peanut Butter Cup Ice Cream Cake,4,600.0,[Desserts],,"[chocolate wafer, heavy whipping cream, hot fudge topping, chocolate]",ice+cream
+Cinnamon-Sugar-Ice-Cream-749443,Cinnamon-Sugar Ice Cream,3,4800.0,[Desserts],,"[sugar, ground cinnamon, unsalted butter, half & half, cinnamon sticks, kosher salt, egg yolks, heavy cream, vanilla]",ice+cream
+Jackfruit-langka-ice-cream-331644,Jackfruit Langka Ice Cream,3,3000.0,[Desserts],,"[heavy cream, sugar, egg yolks, jackfruit, syrup]",ice+cream
